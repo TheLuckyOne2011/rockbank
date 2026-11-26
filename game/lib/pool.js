@@ -3,7 +3,10 @@ const fs = require('fs');
 const path = require('path');
 
 const DB = path.join(__dirname, '..', '..', 'questions.json');
-const IMAGES = process.env.ROCKID_IMAGES || path.join(__dirname, '..', '..', '..', 'rockid', 'images');
+// photos: an explicit folder, else the full rockid library next to this repo, else the small set bundled in game/images
+const FULL_LIBRARY = path.join(__dirname, '..', '..', '..', 'rockid', 'images');
+const BUNDLED = path.join(__dirname, '..', 'images');
+const IMAGES = process.env.ROCKID_IMAGES || (fs.existsSync(FULL_LIBRARY) ? FULL_LIBRARY : BUNDLED);
 
 const PLAYABLE = new Set(['mcq', 'tf', 'multi', 'order', 'numeric', 'short', 'frq']);
 // Multiple-choice questions are played as typed answers, so drop the ones that only make sense with their options.

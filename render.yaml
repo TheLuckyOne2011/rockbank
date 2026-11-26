@@ -1,0 +1,12 @@
+# Render blueprint: New + -> Blueprint -> pick this repo -> Apply.
+# Free plan sleeps after ~15 min without visitors; the first visit after that takes ~30-60 s to wake it.
+services:
+  - type: web
+    name: rockbank
+    runtime: node
+    plan: free
+    rootDir: game
+    buildCommand: npm install --omit=dev
+    startCommand: node server.js
+    healthCheckPath: /api/info
+    autoDeploy: true

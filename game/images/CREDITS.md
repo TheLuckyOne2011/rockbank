@@ -1,0 +1,1024 @@
+# Photo credits
+
+Specimen photos are from Wikimedia Commons (collected by the rockid project). Each is used under the license shown.
+
+- `ulexite/000.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Colemanite-Ulexite_(55155413756).jpg
+- `ulexite/001.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Colemanite-Ulexite_(55155648144).jpg
+- `ulexite/002.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Colemanite-Ulexite_(55155648179).jpg
+- `ulexite/003.jpg`: Albarubescens, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pietra_di_Ulexite.jpg
+- `ulexite/004.jpg`: Andrew Silver, Public domain, https://commons.wikimedia.org/wiki/File:Ulexite_-_USGS_Mineral_Specimens_1128.jpg
+- `ulexite/005.jpg`: Andrew Silver, Public domain, https://commons.wikimedia.org/wiki/File:Ulexite_-_USGS_Mineral_Specimens_1130.jpg
+- `ulexite/006.jpg`: Andrew Silver, Public domain, https://commons.wikimedia.org/wiki/File:Ulexite_-_USGS_Mineral_Specimens_1131.jpg
+- `ulexite/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Ulexite_(Kern_County,_California,_USA).jpg
+- `aragonite/000.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Andradite_var._melanite,_aragonite_7100.0370.jpg
+- `aragonite/001.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Andradite_var._melanite,_aragonite_7100.0381.jpg
+- `aragonite/002.jpg`: User:Christoph Radtke, Public domain, https://commons.wikimedia.org/wiki/File:Aragonite_-_crystal_ball.jpg
+- `aragonite/003.jpg`: Ra'ike (see also: de:Benutzer:Ra'ike), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Aragonite_-_Marocco.jpg
+- `aragonite/004.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Aragonite_%22toadstool_concretions%22_(GeoDIL_number_-_729).jpg
+- `aragonite/005.jpg`: Hadley Paul Garland from El Paso, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Aragonite_(3352016626).jpg
+- `aragonite/006.jpg`: Yinan Chen, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Aragonite_(8078029185).jpg
+- `aragonite/007.jpg`: Ji-Elle, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Aragonite_(Eisenerz)-Mus%C3%A9e_de_min%C3%A9ralogie_de_Strasbourg.jpg
+- `azurite/000.jpg`: This image is uploaded as image number 211797 at Amgueddfa Cymru Images.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Asurit_-_Azurite_-_211797.jpeg
+- `azurite/001.jpg`: Patafisik, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Azurite_-_Mus%C3%A9um_d%27histoire_naturelle_de_Grenoble.jpg
+- `azurite/002.jpg`: Ivar Leidus, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Azurite_-_New_Nevada_Lode,_La_Sal,_Utah,_USA.jpg
+- `azurite/003.jpg`: Ra'ike, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Azurite_-_streak_color.jpg
+- `azurite/004.jpg`: Stephanie Clifford from Arlington, VA, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Azurite_(3561497998).jpg
+- `azurite/005.jpg`: Ed Uthman from Houston, TX, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Azurite_(4739716052).jpg
+- `azurite/006.jpg`: Tony Hisgett from Birmingham, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Azurite_(8030249471).jpg
+- `azurite/007.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Azurite_(GeoDIL_number_-_441).jpg
+- `calcite/000.jpg`: Daniel Ventura, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:430_Calcite.JPG
+- `calcite/001.jpg`: Patocsdori, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_%22calcite_cave%E2%80%9D.JPG
+- `calcite/002.jpg`: Brocken Inaglory, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:A_fossil_shell_with_calcite.jpg
+- `calcite/003.jpg`: Anatoly Vlasov, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Aggregates_of_calcite_crystals.jpg
+- `calcite/004.jpg`: This image is uploaded as image number 211798 at Amgueddfa Cymru Images.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Calsit_-_Calcite_-_211798.jpeg
+- `calcite/007.jpg`: Robert M. Lavinsky, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Breithauptite,_Skutterudite,_Calcite-869212.jpg
+- `calcite/008.jpg`: Robert M. Lavinsky, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Breithauptite,_Skutterudite,_Calcite-869213.jpg
+- `calcite/009.jpg`: Robert M. Lavinsky, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Breithauptite,_Skutterudite,_Calcite-869214.jpg
+- `dolomite/004.jpg`: Ralph Bottrill, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Carrollite,_Dolomite,_Siderite,_Malachite-792194.jpg
+- `dolomite/005.jpg`: Ralph Bottrill, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Carrollite,_Dolomite,_Siderite,_Malachite-792195.jpg
+- `dolomite/006.jpg`: Ralph Bottrill, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Carrollite,_Dolomite,_Siderite,_Malachite-792196.jpg
+- `dolomite/007.jpg`: JJ Harrison (https://www.jjharrison.com.au/), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Cinabar_and_Dolomite.jpg
+- `dolomite/008.jpg`: Parent Géry, Public domain, https://commons.wikimedia.org/wiki/File:Cinabre_et_dolomite_(Chine)_.jpg
+- `dolomite/009.jpg`: Géry Parent, Copyrighted free use, https://commons.wikimedia.org/wiki/File:Cinabre_et_quartz_sur_dolomite.(Chine).jpeg
+- `dolomite/010.jpg`: Géry Parent, Copyrighted free use, https://commons.wikimedia.org/wiki/File:Cinabre_macl%C3%A9_et_quartz_sur_dolomite.(Chine).jpg
+- `dolomite/011.jpg`: Parent Géry, Public domain, https://commons.wikimedia.org/wiki/File:Cinabre,_dolomite_et_quartz_(Chine).jpg
+- `malachite/000.jpg`: thisisbossi from Washington, DC, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2009_04_19_-_4738_-_Washington_DC_-_Natural_History_Museum_-_Quartz_with_Malachite_(3527546990).jpg
+- `malachite/001.jpg`: thisisbossi from Washington, DC, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2009_04_19_-_4749_-_Washington_DC_-_Natural_History_Museum_-_Malachite_(3527562498).jpg
+- `malachite/002.jpg`: thisisbossi from Washington, DC, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2009_04_19_-_4750_-_Washington_DC_-_Natural_History_Museum_-_Malachite_(3527564298).jpg
+- `malachite/003.jpg`: thisisbossi from Washington, DC, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2009_04_19_-_4755_-_Washington_DC_-_Natural_History_Museum_-_Malachite_(3527570614).jpg
+- `malachite/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Botryoidal_Malachite_(3.9_cm)_Milpillas,_Sonora,_Mexico_(8459815326).jpg
+- `malachite/008.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Botryoidal_Malachite_(7.7_mm),_Katanga_Province,_Zaire_(8459820730).jpg
+- `malachite/009.jpg`: TheFurther21, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Botryoidal_malachite_01_zoomed.jpg
+- `malachite/010.jpg`: TheFurther21, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Botryoidal_malachite_01.jpg
+- `magnesite/000.jpg`: Becritical, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Dyed_magnesite_beads.jpg
+- `magnesite/001.jpg`: DerHexer, Wikimedia Commons, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Harvard_Museum_of_Natural_History._Magnesite._Mt._Brussilof_Mine,_near_Radium,_British_Columbia_(DerHexer)_2012-07-20.jpg
+- `magnesite/003.jpg`: Dexter Perkins, CC0, https://commons.wikimedia.org/wiki/File:Magnesite_(GeoDIL_number_-_887).jpg
+- `magnesite/004.jpg`: Cs california, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Magnesite_Austria.jpg
+- `magnesite/005.jpg`: Bergminer, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Magnesite_Eugui_(Navarra)_Spain.jpg
+- `magnesite/006.jpg`: Zbynek Burival, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Magnesite_nodule_from_Bernartice,_Czech_Republic.jpg
+- `magnesite/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Magnesite_piece.jpg
+- `magnesite/008.png`: Hoa112008, Public domain, https://commons.wikimedia.org/wiki/File:Magnesite-3D-vdW.png
+- `rhodochrosite/000.jpg`: Carles Millan, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Alabandite,_Rhodochrosite,_Quartz-376141.jpg
+- `rhodochrosite/001.jpg`: Kimon Berlin, user:Gribeco, CC BY 2.5, https://commons.wikimedia.org/wiki/File:Alma_King_rhodochrosite.jpg
+- `rhodochrosite/007.jpg`: Dguendel, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Freiberg,_Terra_mineralia,_rhodochrosite.JPG
+- `rhodochrosite/008.jpg`: Yinan Chen, Public Domain, https://commons.wikimedia.org/wiki/File:Gfp-Rhodochrosite.jpg
+- `rhodochrosite/009.jpg`: Géry PARENT, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Leucophanite,_natrolite,_rhodochrosite,_aegirine_300-4-1929.JPG
+- `rhodochrosite/010.jpg`: Géry PARENT, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Leucophanite,_natrolite,_rhodochrosite,_aegirine_300-4-2003.JPG
+- `rhodochrosite/011.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Leucophanite,_natrolite,_rhodochrosite,_aegirine_300-4-2014.JPG
+- `rhodochrosite/012.jpg`: Robert M. Lavinsky, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Manganite-Rhodochrosite-tmu57a.jpg
+- `siderite/000.jpg`: Silar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:02024_1509_Siderite_rocks_from_Silesian_Beskids.jpg
+- `siderite/001.jpg`: Rygel, M.C., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:070811-1_siderite_20x_XPL.jpg
+- `siderite/002.jpg`: Didier Descouens, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Annabergite-Siderite-_Grece-1.jpg
+- `siderite/008.jpg`: Rygel, M.C., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:CliftonFm_sphaerosiderite_IMG_2291.jpg
+- `siderite/009.jpg`: Pedro A. Gonzalez Rodriguez, Public domain, https://commons.wikimedia.org/wiki/File:Cryolite,_Siderite-129372.jpg
+- `siderite/010.jpg`: John Sobolewski (JSS), CC BY 3.0, https://commons.wikimedia.org/wiki/File:Cryolite,_Siderite-483241.jpg
+- `siderite/011.jpg`: Charlie Smith, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Cryolite,_Siderite,_Chalcopyrite-1160190.jpg
+- `siderite/012.jpg`: Charlie Smith, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Cryolite,_Siderite,_Chalcopyrite-1160191.jpg
+- `copper/000.jpg`: Chris857, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:A._E._Seaman_Mineral_Museum_copper_display.jpg
+- `copper/001.jpg`: Mike Beauregard, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Arctic_CopperNunavut.jpg
+- `copper/002.jpg`: Mike Beauregard from Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bonsai_native_copper_(38489397962).jpg
+- `copper/003.jpg`: David M. Maietta, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Chamosite,_Saponite,_Copper-188771.jpg
+- `copper/004.jpg`: Benjamin Goetzinger, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chile_-_copper_slates_on_train.jpg
+- `copper/005.jpg`: Benjamin Goetzinger, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chile_-_copper_train.jpg
+- `copper/006.jpg`: U.S. Geological Survey, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Copper_--_A_Metal_for_the_Ages.jpg
+- `copper/007.jpg`: Hi-Res Images of Chemical Elements, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Copper_(29_Cu).jpg
+- `diamond/000.jpg`: Johannafeldman, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Amity_Diamonds_diamante_Uncut-En-Bruto.jpg
+- `diamond/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Cullinan_Diamond_(replica)_(Premier_Kimberlite_Pipe,_Precambrian;_Premier_Mine,_South_Africa)_1_(17872546950).jpg
+- `diamond/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Cullinan_Diamond_(replica)_(Premier_Kimberlite_Pipe,_Precambrian;_Premier_Mine,_South_Africa)_2_(18061070071).jpg
+- `diamond/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Cullinan_Diamond_(replica)_(Premier_Kimberlite_Pipe,_Precambrian;_Premier_Mine,_South_Africa)_3_(17437634204).jpg
+- `diamond/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Cullinan_Diamond_(replica)_(Premier_Kimberlite_Pipe,_Precambrian;_Premier_Mine,_South_Africa)_4_(17872516620).jpg
+- `diamond/005.jpg`: Auckland Museum Collections from Auckland, Aotearoa New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Diamond_(48723573768).jpg
+- `diamond/006.jpg`: Auckland Museum Collections from Auckland, Aotearoa New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Diamond_(48723907996).jpg
+- `diamond/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Diamond_(AK1_Pipe,_Argyle_Lamproite,_Precambrian;_Argyle_Mine,_Western_Australia)_(18021603662).jpg
+- `gold/000.jpg`: Hannes Grobe, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Alaska-gold_hg.jpg
+- `gold/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Alluvial_clast_with_native_gold_(Silver_Bow_Creek,_Butte,_Montana,_USA)_(16902187040).jpg
+- `gold/002.jpg`: Rock Currier, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Altaite_and_Gold_-_Browns_Flat,_Bald_Mountains,_Calaveras_County,_California,_USA.jpg
+- `gold/003.jpg`: This image is uploaded as image number 211808 at Amgueddfa Cymru Images.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Aur_naturiol_-_Native_gold_-_211808.jpeg
+- `gold/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Auriferous_brecciated_quartz-adularia_rhyolite_(Sleeper_Rhyolite_Gold_Ore,_Nevada)_2_(14739423003).jpg
+- `gold/005.jpg`: Geomartin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bird_in_Hand-Gold-2.jpg
+- `gold/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dendritic_crystalline_gold_(Hope%27s_Nose,_Devon,_England)_(16420571574).jpg
+- `gold/007.jpg`: Ra'ike (see also: de:Benutzer:Ra'ike), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Freigold_(drahtf%C3%B6rmig)_-_Marmato,_Columbien.jpg
+- `graphite/000.jpg`: Ceyanodes, CC0, https://commons.wikimedia.org/wiki/File:Bogala_Graphite_Lanka_signs(CSE-BOGA.N0000)_with_CeyAnodes_(pvt)_-_Chairman_of_CeyAnodes_Cherantha_De_Silva_Ltd.jpg
+- `graphite/001.png`: w:en:WIPO uploaded by User:Anthere., CC BY 4.0, https://commons.wikimedia.org/wiki/File:Distribution_of_graphite-related_patent_families_by_source_type.png
+- `graphite/002.jpg`: GeorgHLuh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Expandable_graphite.jpg
+- `graphite/003.png`: 2x910, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Flake_graphite.png
+- `graphite/004.jpg`: Kritzolina, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Graphite_found_near_Mautern.jpg
+- `graphite/005.jpg`: Retired electrician, CC0, https://commons.wikimedia.org/wiki/File:Graphite_grease_-_%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%BC%D0%B0%D0%B7%D0%BA%D0%B0.jpg
+- `graphite/006.jpg`: Aryan Patidar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Graphite_Nib_Art.jpg
+- `graphite/007.jpg`: Дагесян Саркис Арменакович, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Graphite_Pencil.JPG
+- `silver/000.jpg`: Dave Dyet http://www.dyet.com, Public domain, https://commons.wikimedia.org/wiki/File:03414_silver_Cobalt-Ontario.jpg
+- `silver/001.jpg`: Robert M. Lavinsky, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Acanthite-Silver-imiter2.jpg
+- `silver/002.jpg`: Robert M. Lavinsky, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Acanthite-Silver-imiter4.jpg
+- `silver/003.jpg`: Robert M. Lavinsky, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Acanthite-Silver-imiter5.jpg
+- `silver/004.jpg`: Robert M. Lavinsky, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Calcite-Silver-tmu01a.jpg
+- `silver/005.jpg`: Robert M. Lavinsky, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Calcite-Silver-tmu01b.jpg
+- `silver/006.jpg`: Ra'ike (see also: de:Benutzer:Ra'ike), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Chlorargyrite_with_native_Silver_-_Daniel_mine,_Schneeberg,_Erzgebirge.jpg
+- `silver/007.jpg`: Paul from Enschede, The Netherlands, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Dendritic_Silver_Crystals_-_From_Batopilas,_Chihuahua,_Mexico.jpg
+- `sulfur/000.jpg`: Siim Sepp (Sandatlas), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:00014_11_cm_sulfur_gypsum.jpg
+- `sulfur/001.jpg`: Safa.daneshvar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:990617-SulfurStone-IMG_5572_copy_01.jpg
+- `sulfur/002.jpg`: Safa.daneshvar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:990617-SulfurStone-IMG_5572_copy_02.jpg
+- `sulfur/003.jpg`: Safa.daneshvar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:990617-SulfurStone-IMG_5572_copy_03.jpg
+- `sulfur/004.jpg`: Safa.daneshvar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:990617-SulfurStone-IMG_5572_copy_04.jpg
+- `sulfur/005.jpg`: Safa.daneshvar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:990617-SulfurStone-IMG_5572_copy_05.jpg
+- `sulfur/006.jpg`: Astari28, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Belerang_atau_sulfur_Gunung_Ijen_1.jpg
+- `sulfur/007.jpg`: Vassia Atanassova - Spiritia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Earth-and-Man--Native-sulfur.jpg
+- `fluorite/000.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Aigue-marine,_fluorite,_muscovite.JPG
+- `fluorite/004.jpg`: Erich Berger, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Bertrandite,_Fluorite-800903.jpg
+- `fluorite/005.jpg`: Jennii Burrell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Calciumfluoritecrystal.jpg
+- `fluorite/006.jpg`: Modris Baum, Public domain, https://commons.wikimedia.org/wiki/File:Dawsonite,_Fluorite,_Calcite-321572.jpg
+- `fluorite/010.jpg`: Mark Joseph Wylie, Public domain, https://commons.wikimedia.org/wiki/File:Elpasolite,_Fluorite,_Microcline-13897.jpg
+- `fluorite/011.jpg`: Mark Joseph Wylie, Public domain, https://commons.wikimedia.org/wiki/File:Elpasolite,_Fluorite,_Microcline-211341.jpg
+- `fluorite/012.jpg`: Elena Ternovaja, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Fluorite_%E2%80%93_Fundort_Vogesen.jpg
+- `fluorite/013.jpg`: Jarno from Rotterdam, Netherlands, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Fluorite_(177996151).jpg
+- `halite/000.jpg`: Dave Dyet http://www.shutterstone.com http://www.dyet.com, Public domain, https://commons.wikimedia.org/wiki/File:BlockSalt_3307.jpg
+- `halite/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Blue_halite_(Prairie_Evaporite_Formation,_Middle_Devonian;_Potash_Saskatchewan-Lanigan_Mine,_Saskatchewan,_Canada)_2.jpg
+- `halite/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Blue_halite_(Prairie_Evaporite_Formation,_Middle_Devonian;_Potash_Saskatchewan-Lanigan_Mine,_Saskatchewan,_Canada)_3.jpg
+- `halite/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Clear_rock_salt_(halitite).jpg
+- `halite/004.jpg`: IvanSakhno, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Crystals_Halite_on_matrix.jpg
+- `halite/005.jpg`: C26.AI, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Dead_Sea_Halite_Terraces_and_Salt_Crust_Formations_01.jpg
+- `halite/006.jpg`: C26.AI, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Dead_Sea_Halite_Terraces_and_Salt_Crust_Formations_02.jpg
+- `halite/007.jpg`: C26.AI, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Dead_Sea_Halite_Terraces_and_Salt_Crust_Formations_03.jpg
+- `corundum/000.png`: Editistic, CC0, https://commons.wikimedia.org/wiki/File:Alpha-Al2O3-corundum-crystal-structure.png
+- `corundum/001.png`: Ma, C.; Cámara, F.; Bindi, L.; Griffin, W.L., CC BY 4.0, https://commons.wikimedia.org/wiki/File:BSE_of_corundum_grain_(b).png
+- `corundum/002.png`: Ma, C.; Cámara, F.; Bindi, L.; Griffin, W.L., CC BY 4.0, https://commons.wikimedia.org/wiki/File:BSE_of_corundum_grain_(c).png
+- `corundum/003.jpg`: Auckland Museum Collections from Auckland, Aotearoa New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Corundum_(48723567368).jpg
+- `corundum/004.jpg`: Auckland Museum Collections from Auckland, Aotearoa New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Corundum_(48724069212).jpg
+- `corundum/005.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Corundum_(GeoDIL_number_-_1427).jpg
+- `corundum/006.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Corundum_(GeoDIL_number_-_1433).jpg
+- `corundum/007.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Corundum_(GeoDIL_number_-_1438).jpg
+- `goethite-limonite/000.jpg`: Parent Géry, Public domain, https://commons.wikimedia.org/wiki/File:Adamite_et_goethite_(Mexique).jpg
+- `goethite-limonite/001.jpg`: Géry Parent, Public domain, https://commons.wikimedia.org/wiki/File:Adamite_sur_goethite1_(Maroc).jpg
+- `goethite-limonite/002.jpg`: Géry Parent, Public domain, https://commons.wikimedia.org/wiki/File:Adamite_sur_goethite2_(Maroc).jpg
+- `goethite-limonite/003.jpg`: Géry PARENT, Public domain, https://commons.wikimedia.org/wiki/File:Adamite,_goethite_1.jpg
+- `goethite-limonite/004.jpg`: Géry PARENT, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Adamite,_goethite.jpg
+- `goethite-limonite/006.jpg`: Géry PARENT, Public domain, https://commons.wikimedia.org/wiki/File:Auricalcite,_hemimorphite,_goethite.jpg
+- `goethite-limonite/007.jpg`: Géry PARENT, CC0, https://commons.wikimedia.org/wiki/File:Aurichalcite,_hemimorphite,_goethite_1.jpg
+- `goethite-limonite/008.jpg`: Géry PARENT, Public domain, https://commons.wikimedia.org/wiki/File:Aurichalcite,_hemimorphite,_goethite.jpg
+- `hematite/000.jpg`: Rygel, M.C., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:050607-1_hematite_ooids_20x_XPL.jpg
+- `hematite/005.jpg`: Dguendel, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Freiberg,_Terra_mineralia,_hematite.JPG
+- `hematite/007.jpg`: DanielPenfield, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:GVFKAStoneToolCraftsmanShowBandedHematiteAmethyst.jpg
+- `hematite/008.jpg`: Auckland Museum Collections from Auckland, Aotearoa New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Haematite_(48723824423).jpg
+- `hematite/009.jpg`: Auckland Museum Collections from Auckland, Aotearoa New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Haematite_(48723827913).jpg
+- `hematite/010.jpg`: Auckland Museum Collections from Auckland, Aotearoa New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Haematite_(48723837523).jpg
+- `hematite/011.jpg`: Auckland Museum Collections from Auckland, Aotearoa New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Haematite_(48723855668).jpg
+- `hematite/012.jpg`: Auckland Museum Collections from Auckland, Aotearoa New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Haematite_(48724174401).jpg
+- `magnetite/000.jpg`: Hannes Grobe, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:20Magnetite-malmberget_hg.jpg
+- `magnetite/001.jpg`: Associazione MUSA, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Campione_di_Magnetite.jpg
+- `magnetite/002.jpg`: Stanislav.nevyhosteny, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Carbon_nanotubes_growing_on_magnetite_particles,_5kx_magnification.jpg
+- `magnetite/011.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Chlorite_schist_with_magnetite_(Vermont,_USA)_5_-_53323873323.jpg
+- `magnetite/012.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Franklinite_with_magnetite_(GeoDIL_number_-_1521).jpg
+- `magnetite/013.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Franklinite_with_magnetite_(GeoDIL_number_-_410).jpg
+- `magnetite/014.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Franklinite-magnetite,_willemite_and_calcite_(GeoDIL_number_-_1526).jpg
+- `magnetite/015.jpg`: Tiia Monto, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Geneva_Natural_History_Museum_-_magnetite.jpg
+- `pyrolusite/000.jpg`: DerHexer, Wikimedia Commons, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Harvard_Museum_of_Natural_History._Pyrolusite._Bootin_Hill,_Silver_City,_Grant_Co.,_NM_(DerHexer)_2012-07-20.jpg
+- `pyrolusite/001.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Psilomelane-pyrolusite_7100.4897.jpg
+- `pyrolusite/002.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Psilomelane-pyrolusite_7100.4899.jpg
+- `pyrolusite/003.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Psilomelane-pyrolusite_7100.4900.jpg
+- `pyrolusite/004.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Psilomelane-pyrolusite_7100.4947.jpg
+- `pyrolusite/005.jpg`: Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Pyrolusite_-_USGS_ID_Stose,_GW_1425.jpg
+- `pyrolusite/006.jpg`: Andrew Silver, Public domain, https://commons.wikimedia.org/wiki/File:Pyrolusite_-_USGS_Mineral_Specimens_851.jpg
+- `pyrolusite/007.jpg`: Andrew Silver, Public domain, https://commons.wikimedia.org/wiki/File:Pyrolusite_-_USGS_Mineral_Specimens_852.jpg
+- `rutile/000.png`: Brotter121, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Abnormal_Grain_Growth_in_Rutile.png
+- `rutile/001.jpg`: Masha Milshina, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Amesite_and_Rutile_01.jpg
+- `rutile/002.jpg`: Masha Milshina, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Amesite_and_Rutile_02.jpg
+- `rutile/004.jpg`: Ricardo Scholz, CC0, https://commons.wikimedia.org/wiki/File:Rhabdophane-(La),_Rutile-858524.jpg
+- `rutile/005.jpg`: Tim Evanson from Cleveland Heights, Ohio, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Rutile_-_Cleveland_Museum_of_Natural_History_-_2014-12-26_(21045315496).jpg
+- `rutile/006.jpg`: Fumikas Sagisavas, CC0, https://commons.wikimedia.org/wiki/File:Rutile_(20241027).jpg
+- `rutile/007.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Rutile_(GeoDIL_number_-_1562).jpg
+- `rutile/008.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Rutile_(GeoDIL_number_-_1564).jpg
+- `zincite/000.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Franklinite_and_zincite_(GeoDIL_number_-_1555).jpg
+- `zincite/001.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Franklinite_and_zincite_(GeoDIL_number_-_1561).jpg
+- `zincite/002.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Franklinite_with_zincite_(GeoDIL_number_-_1531).jpg
+- `zincite/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Franklinite-zincite-calcite_rock_(Franklin_Marble,_Mesoproterozoic,_1.03-1.08_Ga;_Franklin,_northern_New_Jersey,_USA)_1.jpg
+- `zincite/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Franklinite-zincite-calcite_rock_(Franklin_Marble,_Mesoproterozoic,_1.03-1.08_Ga;_Franklin,_northern_New_Jersey,_USA)_2.jpg
+- `zincite/006.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Franklinite,_zincite_and_willemite_(GeoDIL_number_-_1527).jpg
+- `zincite/007.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Franklinite,_zincite,_calamine_and_galena_(GeoDIL_number_-_1534).jpg
+- `zincite/008.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Franklinite,_zincite,_schefferite_and_calcite_(GeoDIL_number_-_1560).jpg
+- `turquoise/000.jpg`: Mike Beauregard from Nunavut, Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Big_turquoise_from_Cananea_(cropped).jpg
+- `turquoise/001.jpg`: Mike Beauregard from Nunavut, Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Big_turquoise_from_Cananea.jpg
+- `turquoise/002.jpg`: University of South Carolina. McKissick Museum, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Historic_Southern_Naturalists_Project_Specimen_-_Turquoise.jpg
+- `turquoise/003.jpg`: W.carter, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Large_raw_turquoise_from_Arizona_1.jpg
+- `turquoise/004.jpg`: W.carter, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Large_raw_turquoise_from_Arizona_2.jpg
+- `turquoise/005.jpg`: Сергей 6662, CC0, https://commons.wikimedia.org/wiki/File:Maykop_turquoise.jpg
+- `turquoise/006.jpg`: W.carter, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Raw_turquoise_from_Arizona_1.jpg
+- `turquoise/007.jpg`: W.carter, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Raw_turquoise_from_Arizona_2.jpg
+- `fluorapatite/000.jpg`: Didier Descouens, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Apatite_Bretagne.jpg
+- `fluorapatite/001.jpg`: Didier Descouens, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Apatite_Canada.jpg
+- `fluorapatite/002.jpg`: Didier Descouens, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Apatite_Ontario.jpg
+- `fluorapatite/003.jpg`: Didier Descouens, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Apatite_Portugal.jpg
+- `fluorapatite/004.jpg`: Géry PARENT, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Apatite_rose_sur_mica_(Pakistan)_3.JPG
+- `fluorapatite/005.jpg`: Géry PARENT, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Apatite_sur_gangue_de_calcite_orange_(Irkutsk,_Lac_Ba%C3%AFkal,_Sib%C3%A9rie,_Slyudyanka,_Priba%C3%AFkalie_-_F%C3%A9d%C3%A9ration_de_Russie)_1.jpg
+- `fluorapatite/006.jpg`: Géry PARENT, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Apatite_sur_gangue_de_calcite_orange_(Irkutsk,_Lac_Ba%C3%AFkal,_Sib%C3%A9rie,_Slyudyanka,_Priba%C3%AFkalie_-_F%C3%A9d%C3%A9ration_de_Russie)_2.jpg
+- `fluorapatite/007.jpg`: Géry PARENT, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Apatite_sur_gangue_de_calcite_orange_(Irkutsk,_Lac_Ba%C3%AFkal,_Sib%C3%A9rie,_Slyudyanka,_Priba%C3%AFkalie_-_F%C3%A9d%C3%A9ration_de_Russie).jpg
+- `pyromorphite/000.jpg`: Hannes Grobe, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:26Pyromorphite_hg.jpg
+- `pyromorphite/001.jpg`: Rock Currier, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Cerussite_and_Pyromorphite_-_Wheatley_Mines,_Phoenixville,_Chester_County,_Pennsylvania,_USA.jpg
+- `pyromorphite/002.jpg`: Arturo Molina, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Creaseyite,_Mimetite,_Pyromorphite,_Chrysocolla_-_Soga_quarry,_Camina,_Tarapaca_Region,_Chile.jpg
+- `pyromorphite/003.png`: Rudolf Pohl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:CrocoitePyromorphite.png
+- `pyromorphite/004.jpg`: Vassia Atanassova - Spiritia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Earth-and-Man--Pyromorphite.jpg
+- `pyromorphite/005.jpg`: Dguendel, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Freiberg,_Terra_mineralia,_pyromorphite.JPG
+- `pyromorphite/006.jpg`: Yinan Chen, Public Domain, https://commons.wikimedia.org/wiki/File:Gfp-pyromorphite-2.jpg
+- `pyromorphite/007.jpg`: Yinan Chen, Public Domain, https://commons.wikimedia.org/wiki/File:Gfp-pyromorphite.jpg
+- `vanadinite/000.jpg`: Masha Milshina, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Arizona_Vanadinite.jpg
+- `vanadinite/001.jpg`: Klaproth, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Dark_red_vanadinite_overgrowing_baryte_layers_Mibladen.jpg
+- `vanadinite/002.jpg`: Klaproth, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Elongated_vanadinite_Mibladen.jpg
+- `vanadinite/003.jpg`: Yinan Chen, Public Domain, https://commons.wikimedia.org/wiki/File:Gfp-vanadinite.jpg
+- `vanadinite/004.jpg`: DerHexer, Wikimedia Commons, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Harvard_Museum_of_Natural_History._Vanadinite._(Gebel)_Jbel_Mahser,_south_of_Oujda,_Marocco_(DerHexer)_2012-07-20.jpg
+- `vanadinite/005.jpg`: DerHexer, Wikimedia Commons, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Harvard_Museum_of_Natural_History._Vanadinite._Ahumada_Mine,_Los_Lamentos,_Chihuahua,_Mexico_(DerHexer)_2012-07-20.jpg
+- `vanadinite/006.jpg`: Didier Descouens, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Maroc_-_Vanadinite.jpg
+- `vanadinite/007.jpg`: Didier Descouens, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Mibladene_Vanadinite.jpg
+- `barite/000.jpg`: Thomas Bresson, CC BY 3.0, https://commons.wikimedia.org/wiki/File:2011-12-24_15-05-32-baryte-53f.jpg
+- `barite/001.jpg`: Thomas Bresson, CC BY 3.0, https://commons.wikimedia.org/wiki/File:2011-12-24_15-08-31-baryte-10f.jpg
+- `barite/002.jpg`: Ivtorov, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:44-INHIGEO_Mining_park_Baryte.jpg
+- `barite/003.jpg`: Carlesmillan, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:6158M-barite2.jpg
+- `barite/004.jpg`: Bobjgalindo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_Barite_stone.jpg
+- `barite/006.jpg`: Bjoertvedt, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Barentsburg_museum_IMG_4487_galenite_with_barite_from_bj%C3%B6rn%C3%B6ya.JPG
+- `barite/007.jpg`: Bjoertvedt, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Barentsburg_museum_IMG_4489_barite_from_zeipeldalen_in_dickson_land.JPG
+- `barite/008.jpg`: Aangelo, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Barite_-_Barega,_Sardegna,_Italia_02.jpg
+- `celestite/000.jpg`: Ivar Leidus, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Celestine_-_Sakoany_deposit,_Katsepy,_Mitsinjo,_Boeny,_Madagascar.jpg
+- `celestite/001.jpg`: Thomas Spann, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Celestine_(13156441544).jpg
+- `celestite/002.jpg`: Ed Uthman from Houston, TX, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Celestine_(4739824184).jpg
+- `celestite/003.jpg`: Leiem, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Celestine_(ZMNH).jpg
+- `celestite/004.jpg`: Didier Descouens, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Celestine_arignac.jpg
+- `celestite/005.jpg`: Didier Descouens, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Celestine_Bristol.jpg
+- `celestite/006.jpg`: Szilas, Public domain, https://commons.wikimedia.org/wiki/File:Celestine_from_Madagascar_in_the_Mineral_Museum_of_Si%C3%B3fok.jpg
+- `celestite/007.jpg`: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Celestine_from_Madagascar._Erbil_Stones_and_Gems_Museum,_Erbil_Citadel,_Hawler,_Iraq.jpg
+- `alabaster/000.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Alabaster_(gypsum)_(GeoDIL_number_-_629).jpg
+- `alabaster/001.jpg`: Alvaro Martinez, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Alabaster_fire_serpent.jpg
+- `alabaster/003.jpg`: uploaded with permission from User Lanzi by Ra'ike on de.wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Alabaster.jpg
+- `alabaster/005.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Anhydrite,_gypsum_and_alabaster_(GeoDIL_number_-_604).jpg
+- `alabaster/008.jpg`: Knosos, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Alabaster_als_Baumaterialien_in_Palast_des_Minos_(Knosospalast,_Kreta).jpg
+- `alabaster/009.jpg`: Frederick Bligh Bond, Public domain, https://commons.wikimedia.org/wiki/File:Alabaster_slab_with_footprints,_Vatican,_Rome_(An_Old_English_Home_and_Its_Dependencies).jpg
+- `alabaster/010.jpg`: ulli purwin (→de:Benutzer:Najadenn), CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Alien_alabaster.jpg
+- `alabaster/011.jpg`: anonymous, Public domain, https://commons.wikimedia.org/wiki/File:Anonymous_-_Alabasterplatte_mit_Mariae_Verk%C3%BCndigung_und_Anbetung_der_Hirten_-_KK_2687_-_Kunsthistorisches_Museum.jpg
+- `satin-spar/000.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Gypsum_var_Satin_Spar_01_10x_(39585257941).jpg
+- `satin-spar/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Satin_spar_gypsum_(Cropwell_Bishop_Formation,_Lower_Triassic;_near_Derby,_England)_1.jpg
+- `satin-spar/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Satin_spar_gypsum_(Cropwell_Bishop_Formation,_Lower_Triassic;_near_Derby,_England)_2.jpg
+- `satin-spar/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Satin_spar_gypsum_(Cropwell_Bishop_Formation,_Lower_Triassic;_near_Derby,_England)_3.jpg
+- `selenite/000.jpg`: Orlando Innaurato, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cristalli_di_selenite_che_formano_una_%22lisca_di_pesce%22.jpg
+- `selenite/001.jpg`: Francesco Bini, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Erzurum,_madrasa_dei_minareti_gemelli,_collezione_di_minerali,_selenite.jpg
+- `selenite/002.jpg`: Yinan Chen, Public Domain, https://commons.wikimedia.org/wiki/File:Gfp-Gypsum-v-selenite.jpg
+- `selenite/003.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Gypsum_(selenite)_(GeoDIL_number_-_620).jpg
+- `selenite/004.jpg`: JJ Harrison (https://www.jjharrison.com.au/), CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Gypsum_var._selenite_from_Andamooka_Ranges_-_Lake_Torrens_area,_South_Australia.jpg
+- `selenite/005.jpg`: Gottfried Hoffmann -…, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Marienglash%C3%B6hle_naturell_-_Cave_selenite_-_Cave_isinglass_-_panoramio.jpg
+- `selenite/006.png`: Khruner, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mineral_-_Selenite_by_Khruner.png
+- `selenite/007.jpg`: Bryan Barnes, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:NM_Gypsum_Selenite_Cluster_2.jpg
+- `bornite/000.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Bornite_(GeoDIL_number_-_1129).jpg
+- `bornite/001.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Bornite_(GeoDIL_number_-_1134).jpg
+- `bornite/002.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Bornite_(GeoDIL_number_-_1142).jpg
+- `bornite/003.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Bornite_(GeoDIL_number_-_1145).jpg
+- `bornite/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bornite_(latest_Cretaceous_to_earliest_Tertiary,_62-66_Ma;_Butte_Mining_District,_Montana,_USA)_1.jpg
+- `bornite/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bornite_(latest_Cretaceous_to_earliest_Tertiary,_62-66_Ma;_Butte_Mining_District,_Montana,_USA)_2.jpg
+- `bornite/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bornite_(latest_Cretaceous_to_earliest_Tertiary,_62-66_Ma;_Butte_Mining_District,_Montana,_USA)_3.jpg
+- `bornite/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bornite_(latest_Cretaceous_to_earliest_Tertiary,_62-66_Ma;_Butte_Mining_District,_Montana,_USA)_4.jpg
+- `chalcopyrite/000.jpg`: Bobjgalindo, CC BY 4.0, https://commons.wikimedia.org/wiki/File:A_collection_of_chalcopyrite_on_display_in_Oregon.jpg
+- `chalcopyrite/001.jpg`: Bjoertvedt, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Barentsburg_museum_IMG_4485_chalcopyrite_st_jonsfjorden_spitsbergen.JPG
+- `chalcopyrite/002.jpg`: Bjoertvedt, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Barentsburg_museum_IMG_4485_chalcopyrite_with_malachite_st_jonsfjorden_spitsbergen.JPG
+- `chalcopyrite/005.jpg`: Carles Millan, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Carrollite,_Chalcopyrite,_Calcite-425160.jpg
+- `chalcopyrite/006.jpg`: Carles Millan, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Carrollite,_Chalcopyrite,_Calcite-425161.jpg
+- `chalcopyrite/007.jpg`: Carles Millan, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Carrollite,_Chalcopyrite,_Calcite-425162.jpg
+- `chalcopyrite/008.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Chalcocite_with_chalcopyrite_(GeoDIL_number_-_1094).jpg
+- `chalcopyrite/009.jpg`: James Petts from London, England, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Chalcopyrite_(12243774623).jpg
+- `galena/000.jpg`: Alina Zienowicz (Ala z), e-mail, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Ala_z-Galena.JPG
+- `galena/001.jpg`: This image is uploaded as image number 211806 at Amgueddfa Cymru Images.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Amgueddfa_Cymru_-_Galena_-_211806.jpeg
+- `galena/002.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Anglesite_and_galena_(GeoDIL_number_-_595).jpg
+- `galena/003.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Anglesite,_galena_and_quartz_(GeoDIL_number_-_588).jpg
+- `galena/004.jpg`: Emilio J. Rodríguez Posada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Barita,_Galena,_Siderita,_Azurita,_Calcosina._Museo_Geominero_(35011957191).jpg
+- `galena/007.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Cerussite_with_galena_(GeoDIL_number_-_736).jpg
+- `galena/011.jpg`: Guy Courtois, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Fake_geode_of_galena_(Real_geode_recovered_with_galena).jpg
+- `galena/018.jpg`: Ivar Leidus, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Galena_-_Huallanca,_Bologesi,_Ancash,_Peru.jpg
+- `pyrite/000.jpg`: Mauro Cateb, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2_Pyrite_crystals.JPG
+- `pyrite/001.jpg`: PLBechly, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_pyrite_sphere.jpg
+- `pyrite/002.jpg`: Géry PARENT, Public domain, https://commons.wikimedia.org/wiki/File:Afghanite,_pyrite,_calcite_1.jpg
+- `pyrite/003.jpg`: Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Afghanite,_Pyrite._Gjaidtrogh%C3%B6he,_Gro%C3%9Fes_Flie%C3%9Ftal,_Austria-9074.jpg
+- `pyrite/004.jpg`: Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Afghanite,_Pyrite._Gjaidtrogh%C3%B6he,_Gro%C3%9Fes_Flie%C3%9Ftal,_Austria-9076.jpg
+- `pyrite/005.jpg`: Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Afghanite,_Pyrite._Gjaidtrogh%C3%B6he,_Gro%C3%9Fes_Flie%C3%9Ftal,_Austria-9077.jpg
+- `pyrite/007.jpg`: Auckland Museum Collections from Auckland, Aotearoa New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Argillite;_pyrite_(48723831387).jpg
+- `pyrite/008.jpg`: Motekov, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Arsenopyrite,_Galenite,_Pyrite,_Schalerite_(Enyovche,_E._Rhodopes)_-_Collection_of_V._Breskovska_at_Sofia_University_%27St._Kliment_Ohridski%27_Museum_of_Mineralogy,_Petrology_and_Mineral_Resources.jpg
+- `sphalerite/002.jpg`: Reinhard Kraasch, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bleiglanz_(Galenit)_mit_Zinkblende_und_Quarz_(RK_2206_P1890154).jpg
+- `sphalerite/003.jpg`: Ji-Elle, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Blende_ferrif%C3%A8re_(Lusse)-Mus%C3%A9e_de_min%C3%A9ralogie_de_Strasbourg.jpg
+- `sphalerite/004.jpg`: Didier Descouens, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Blende_MHNT.MIN.1998.81.jpg
+- `sphalerite/005.jpg`: Patafisik, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Blende_noire_et_blende_rouge_-_Mus%C3%A9um_d%27histoire_naturelle_de_Grenoble.jpg
+- `sphalerite/006.jpg`: Didier Descouens, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Blendefrance1.jpg
+- `sphalerite/007.jpg`: Didier Descouens, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Blendelamure.jpg
+- `sphalerite/008.jpg`: Didier Descouens, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Blendeperou.jpg
+- `sphalerite/009.jpg`: Didier Descouens, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:BLENDERUSSIE.jpg
+- `stibnite/000.jpg`: Bobjgalindo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_stibnite_sample_from_Oregon.jpg
+- `stibnite/001.jpg`: Bobjgalindo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_stibnite_stone.jpg
+- `stibnite/006.jpg`: Géry PARENT, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Cinabre,_quartz,_stibnite_1.jpeg
+- `stibnite/007.jpg`: Géry PARENT, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Cinabre,_quartz,_stibnite.JPG
+- `stibnite/008.jpg`: DerHexer, Wikimedia Commons, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Harvard_Museum_of_Natural_History._Stibnite._(Iyo)_Ehime,_Shikoku,_Japan_(DerHexer)_2012-07-20.jpg
+- `stibnite/009.jpg`: DerHexer, Wikimedia Commons, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Harvard_Museum_of_Natural_History._Stibnite._Japan_(DerHexer)_2012-07-20.jpg
+- `stibnite/010.jpg`: Koreller, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mus%C3%A9um_de_Nantes_-_037_-_Stibnite,_minerai_d%27antimoine_(Rochetrejoux,_Vend%C3%A9e,_France).jpg
+- `stibnite/011.jpg`: Géry PARENT, Public domain, https://commons.wikimedia.org/wiki/File:Stibine_(%3Dstibnite)4_(Roumanie).jpg
+- `actinolite/000.jpg`: P.Fernandes (Trebaruna), CC BY 3.0, https://commons.wikimedia.org/wiki/File:11_Actinolite_(AUT).jpg
+- `actinolite/001.jpg`: John Sobolewski (JSS), CC BY 3.0, https://commons.wikimedia.org/wiki/File:Actinolite_-_Mendocino_County,_California,_USA.jpg
+- `actinolite/002.jpg`: M.O. Stevens, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Actinolite_-_Rice_NW_Museum.JPG
+- `actinolite/003.jpg`: Andrew Silver, Public domain, https://commons.wikimedia.org/wiki/File:Actinolite_-_USGS_Mineral_Specimens_001.jpg
+- `actinolite/004.jpg`: Andrew Silver, Public domain, https://commons.wikimedia.org/wiki/File:Actinolite_-_USGS_Mineral_Specimens_002.jpg
+- `actinolite/005.jpg`: Andrew Silver, Public domain, https://commons.wikimedia.org/wiki/File:Actinolite_-_USGS_Mineral_Specimens_003.jpg
+- `actinolite/006.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Actinolite_-Ca2--Mg4.5-2.5Fe0.5-2.5-(Si8O22)(OH)2_(19631396574).jpg
+- `actinolite/007.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Actinolite_-Ca2--Mg4.5-2.5Fe0.5-2.5-(Si8O22)(OH)2_(19633084473).jpg
+- `hornblende/000.jpg`: Hannes Grobe, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:18Hornblende_schweden_hg.jpg
+- `hornblende/001.jpg`: Jörg Blobelt, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:20190122100DR_Nentmannsdorf_(Bahretal)_Hornblendebruch.jpg
+- `hornblende/002.jpg`: Jörg Blobelt, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:20190122105DR_Nentmannsdorf_(Bahretal)_Hornblendebruch.jpg
+- `hornblende/003.jpg`: Jörg Blobelt, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:20190122110DR_Nentmannsdorf_(Bahretal)_Hornblendebruch.jpg
+- `hornblende/005.jpg`: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Detail,_hornblende_schist_rock_figure_of_Buddha,_from_Gandhara_School,_India,_200-300_CE._National_Museum_of_Scotland,_Edinburgh,_Scotland,_UK.jpg
+- `hornblende/006.jpg`: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Detail._Hornblende_schist_rock_figure_of_Buddha,_from_Gandhara_School,_India,_200-300_CE._National_Museum_of_Scotland,_Edinburgh.jpg
+- `hornblende/007.jpg`: Islam90, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hornblende_and_Plagioclase_(normal_and_polarized).jpg
+- `hornblende/008.jpg`: Daniel Ventura, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Hornblende_from_Golan_Heights_01.JPG
+- `tremolite/000.jpg`: Sailko, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Museo_di_mineralogia,_trasperenze,_giada_tremolite.JPG
+- `tremolite/001.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Tremolite_(GeoDIL_number_-_1702).jpg
+- `tremolite/002.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Tremolite_(GeoDIL_number_-_1705).jpg
+- `tremolite/003.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Tremolite_(GeoDIL_number_-_1707).jpg
+- `tremolite/004.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Tremolite_01_10x_(25746708778).jpg
+- `tremolite/005.jpg`: Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Tremolite_Asbestos_250.jpg
+- `tremolite/006.jpg`: Didier Descouens, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tremolite_Campolungo.jpg
+- `tremolite/007.jpg`: Jstuby, CC0, https://commons.wikimedia.org/wiki/File:Tremolite_surrounding_chert_nodule.jpg
+- `apophyllite/000.jpg`: Didier Descouens, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:(India)_Fluorapophyllite-(K)_and_stilbite.jpg
+- `apophyllite/001.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Apophyllite_-_KCa4Si8O20(OH,_F)_%C2%B7_8H2O,_clear_quartz_-_SiO2_(28841118528).jpg
+- `apophyllite/002.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Apophyllite_-_KCa4Si8O20(OH,_F)_%C2%B7_8H2O,_clear_quartz_-_SiO2_(28841121818).jpg
+- `apophyllite/003.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Apophyllite_-_KCa4Si8O20(OH,_F)_%C2%B7_8H2O,_clear_quartz_-_SiO2_(41996952424).jpg
+- `apophyllite/004.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Apophyllite_-_KCa4Si8O20(OH,_F)_%C2%B7_8H2O,_clear_quartz_-_SiO2_(41996956384).jpg
+- `apophyllite/005.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Apophyllite_-_KCa4Si8O20(OH,_F)_%C2%B7_8H2O,_clear_quartz_-_SiO2_(42714965151).jpg
+- `apophyllite/006.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Apophyllite_-_KCa4Si8O20(OH,_F)_%C2%B7_8H2O,_clear_quartz_-_SiO2_(42714967221).jpg
+- `apophyllite/007.jpg`: Thomas Spann, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Apophyllite_(13156416344).jpg
+- `beryl/000.png`: Carles Millan, CC BY 3.0, https://commons.wikimedia.org/wiki/File:8216M-beryl1.png
+- `beryl/001.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Alkali-beryl,_elbaite,_schorl,_quartz.jpg
+- `beryl/002.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Alkali-beryl,_muscovite,_schorl_1.jpg
+- `beryl/003.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Alkali-beryl,_quartz.jpg
+- `beryl/004.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Alkali-beryl.jpg
+- `beryl/005.jpg`: Stephanie Clifford from Arlington, VA, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Beryl_-_Aquamarine_(2932215213).jpg
+- `beryl/006.jpg`: Tiia Monto, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Beryl_-_hydromoscovite_-_feldspar.jpg
+- `beryl/007.jpg`: Stephanie Clifford from Arlington, VA, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Beryl_-_NH_(2933073146).jpg
+- `chrysocolla/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Chrysocolla_(Blue_Jay_Mine,_Idaho,_USA)_1.jpg
+- `chrysocolla/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Chrysocolla_(Blue_Jay_Mine,_Idaho,_USA)_2.jpg
+- `chrysocolla/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Chrysocolla_(Blue_Jay_Mine,_Idaho,_USA)_3.jpg
+- `chrysocolla/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Chrysocolla_(Blue_Jay_Mine,_Idaho,_USA)_4.jpg
+- `chrysocolla/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Chrysocolla_(Blue_Jay_Mine,_Idaho,_USA)_5.jpg
+- `chrysocolla/008.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Chrysocolla_(Blue_Jay_Mine,_Idaho,_USA)_6.jpg
+- `chrysocolla/009.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Chrysocolla_(GeoDIL_number_-_2374).jpg
+- `chrysocolla/010.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Chrysocolla_(GeoDIL_number_-_2377).jpg
+- `dioptase/000.jpg`: GorissM, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Dioptase_(6735665745).jpg
+- `dioptase/001.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Dioptase_(GeoDIL_number_-_2170).jpg
+- `dioptase/002.jpg`: Neil Kadrmas, CC0, https://commons.wikimedia.org/wiki/File:Dioptase_(GeoDIL_number_-_442).jpg
+- `dioptase/003.jpg`: Géry Parent, Copyrighted free use, https://commons.wikimedia.org/wiki/File:Dioptase_(Namibie).jpg
+- `dioptase/004.jpg`: Ji-Elle, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Dioptase_du_Katanga-Mus%C3%A9e_royal_de_l%27Afrique_centrale.jpg
+- `dioptase/005.jpg`: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Dioptase_from_Zaire._Erbil_Stones_and_Gems_Museum,_Erbil_Citadel,_Hawler,_Iraq.jpg
+- `dioptase/006.jpg`: Eric Hunt, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Dioptase_in_Matrix_from_Namibia.jpg
+- `dioptase/007.jpg`: Weirdmeister, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Dioptase_Naturkundemuseum_Berlin.jpg
+- `epidote/000.jpg`: Moreau.henri, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:086_Epidote_Riec-sur-Belon.jpg
+- `epidote/001.jpg`: Paul Christian B. Yang-ed, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Deformed_epidote_lens_in_amphibole_epidote_schist.jpg
+- `epidote/002.jpg`: Ivar Leidus, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Epidote_-_Canta,_Lima,_Peru.jpg
+- `epidote/003.jpg`: Ra'ike (see also: de:Benutzer:Ra'ike), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Epidote_-_Kayes,_Mali.jpg
+- `epidote/004.jpg`: Patafisik, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Epidote_-_mus%C3%A9um_de_Grenoble.jpg
+- `epidote/005.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Epidote_(54664047808).jpg
+- `epidote/006.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Epidote_(GeoDIL_number_-_1025).jpg
+- `epidote/007.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Epidote_(GeoDIL_number_-_1962).jpg
+- `albite/000.jpg`: Rock Currier, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Albite_-_Crete_(Kriti)_Island,_Greece.jpg
+- `albite/001.jpg`: Rock Currier, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Albite_-_Minas_Gerais,_Brazil.jpg
+- `albite/002.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Albite_-_NaAlSi3O8_(28841173688).jpg
+- `albite/003.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Albite_-_NaAlSi3O8_(40905048680).jpg
+- `albite/004.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Albite_-_NaAlSi3O8_(41815341455).jpg
+- `albite/005.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Albite_-_NaAlSi3O8_(41815343545).jpg
+- `albite/006.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Albite_-_NaAlSi3O8_(42714999621).jpg
+- `albite/007.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Albite_(GeoDIL_number_-_2917).jpg
+- `labradorite/000.jpg`: Eunostos, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Anorthite_labradorite_et_opale,_galerie_de_min%C3%A9ralogie_du_Mus%C3%A9um_national_d%27histoire_naturelle.jpg
+- `labradorite/001.jpg`: Eunostos, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Anorthite_labradorite_et_opale.JPG
+- `labradorite/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Anorthosite_with_labradorite_(Wiborg_Batholith,_1633_Ma;_Kymi_Province,_Finland)_1.jpg
+- `labradorite/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Anorthosite_with_labradorite_(Wiborg_Batholith,_1633_Ma;_Kymi_Province,_Finland)_10.jpg
+- `labradorite/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Anorthosite_with_labradorite_(Wiborg_Batholith,_1633_Ma;_Kymi_Province,_Finland)_11.jpg
+- `labradorite/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Anorthosite_with_labradorite_(Wiborg_Batholith,_1633_Ma;_Kymi_Province,_Finland)_13.jpg
+- `labradorite/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Anorthosite_with_labradorite_(Wiborg_Batholith,_1633_Ma;_Kymi_Province,_Finland)_2.jpg
+- `labradorite/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Anorthosite_with_labradorite_(Wiborg_Batholith,_1633_Ma;_Kymi_Province,_Finland)_3.jpg
+- `amazonite/000.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Aegirine,_amazonite.JPG
+- `amazonite/001.jpg`: Cutekutty_rk, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Amazon_stone.jpg
+- `amazonite/002.jpg`: This file was contributed to Wikimedia Commons by Science History Institute as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, via its partner PA Digital. Record in source catalog DPLA identifier: 93fb2491e909be159fc8160c26e520a5 Science History Institute identifier: padig:SHI-sq87bv40w, Public domain, https://commons.wikimedia.org/wiki/File:Amazonite_-_DPLA_-_93fb2491e909be159fc8160c26e520a5.jpg
+- `amazonite/003.jpg`: Ra'ike (see also: de:Benutzer:Ra'ike), CC BY 3.0, https://commons.wikimedia.org/wiki/File:Amazonite_-_Variety_of_Microcline.jpg
+- `amazonite/004.jpg`: Stephanie Clifford from Arlington, VA, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amazonite_(2931684623).jpg
+- `amazonite/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amazonite_1_(32581857126).jpg
+- `amazonite/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amazonite_2_(31810070543).jpg
+- `amazonite/007.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Amazonite_2.jpg
+- `orthoclase-microcline/002.jpg`: Robert M. Lavinsky, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Arfvedsonite-Quartz-Orthoclase-280290.jpg
+- `orthoclase-microcline/003.jpg`: Robert M. Lavinsky, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Arfvedsonite-Quartz-Orthoclase-280291.jpg
+- `orthoclase-microcline/004.jpg`: Carles Millan, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Arfvedsonite,_Orthoclase-183144.jpg
+- `orthoclase-microcline/008.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Foitite,_quartz,_orthoclase_1.jpg
+- `orthoclase-microcline/009.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Foitite,_quartz,_orthoclase_2.jpg
+- `orthoclase-microcline/010.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Green_orthoclase_(Precambrian;_Southern_Cross,_about_11_to_12_km_north_of_Broken_Hill,_far-western_New_South_Wales,_southeastern_Australia)_(15120707951).jpg
+- `orthoclase-microcline/011.jpg`: DerHexer, Wikimedia Commons, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Harvard_Museum_of_Natural_History._Orthoclase._Maderanerthal,_Uri,_Switzerland_(DerHexer)_2012-07-20.jpg
+- `orthoclase-microcline/012.jpg`: DerHexer, Wikimedia Commons, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Harvard_Museum_of_Natural_History._Orthoclase._Serra_Do_Gerrez,_(Minho)_Braga,_Portugal_(DerHexer)_2012-07-20.jpg
+- `almandine/000.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Almandine_(GeoDIL_number_-_305).jpg
+- `almandine/001.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Almandine_(GeoDIL_number_-_306).jpg
+- `almandine/002.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Almandine_(GeoDIL_number_-_308).jpg
+- `almandine/003.jpg`: Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Almandine_in_Mica_schist._Granatkogel,_%C3%96ztal,_Austria-8869.jpg
+- `almandine/004.jpg`: Jamain, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Almandine_J1.jpg
+- `almandine/005.jpg`: Jamain, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Almandine_J2.jpg
+- `almandine/006.jpg`: Kritzolina, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Almandine_on_biotite_shale.jpg
+- `almandine/007.jpg`: Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Almandine,_Granatkogel,_%C3%96tztal,_Austria-8786.jpg
+- `grossular/000.jpg`: Siim Sepp (Sandatlas), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:00031_6_cm_grossular_calcite_augite_skarn.jpg
+- `grossular/002.jpg`: Lech Darski, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Garnet,_grossular_-_Nioro_du_Sahel_Circle,_Kayes_Region,_Mali.jpg
+- `grossular/003.jpg`: Lech Darski, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Granat_(garnet),_grossular_-_Asbestos_(Jeffrey_Mine),_Canada..jpg
+- `grossular/004.jpg`: Lech Darski, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Granat_(Garnet),_grossular_-_Crestmore,_Riverside_Co.,_California,_USA..JPG
+- `grossular/005.jpg`: Lech Darski, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Granat_(grossular,_rosolit)_-_Sierra_de_Las_Cruces,_east_of_Lago_Jaco,_Coahuila,_Mexico..JPG
+- `grossular/006.jpg`: Lech Darski, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Granat_(grossular)_-_Kayes,_Mali..JPG
+- `grossular/007.jpg`: Lech Darski, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Granat,_grossular_-_Sierra_de_Las_Cruces,_Coahuilla,_Meksyk..jpg
+- `grossular/008.jpg`: Lech Darski, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Granat,_grossular_-_Sierra_de_Las_Cruces,_Coahuilla,_Mexico..JPG
+- `kaolinite/000.jpg`: Daniel Ventura, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:420_Kaolinite.JPG
+- `kaolinite/003.jpg`: SqueekRO, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Disused_kaolinite_quarry_near_M%C4%83cin.jpg
+- `kaolinite/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Hematitic_kaolinite_(Ione_Formation,_Middle_Eocene;_clay_pit_in_the_western_foothills_of_the_Sierra_Nevada_Mountains,_central_California,_USA).jpg
+- `kaolinite/005.jpg`: Ayratayrat, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Kaolinit_y%C3%BCzeyleri_kitap_gibi_sayfa_aral%C4%B1klar%C4%B1na_su_germez_hydrogen_ba%C4%9Flant%C4%B1_O_H_ye%C5%9Fil.jpg
+- `kaolinite/006.jpg`: Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Kaolinite_-_USGS_bws00008.jpg
+- `kaolinite/007.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Kaolinite_(GeoDIL_number_-_2356).jpg
+- `kaolinite/008.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Kaolinite_(GeoDIL_number_-_2357).jpg
+- `kaolinite/009.jpg`: Daniel Ventura, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kaolinite_from_Makhtesh_Ramon.JPG
+- `kyanite/000.jpg`: Super DM, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_small_piece_of_Kyanite.jpg
+- `kyanite/002.jpg`: Thomas Liske from Dresden, Deutschland, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Cyanite_(9148344694).jpg
+- `kyanite/003.jpg`: Géry PARENT, Public domain, https://commons.wikimedia.org/wiki/File:Disth%C3%A8ne1_(%3Dcyanite)_(Br%C3%A9sil).jpg
+- `kyanite/004.jpg`: Géry PARENT, Public domain, https://commons.wikimedia.org/wiki/File:Disth%C3%A8ne2_(%3Dcyanite)_(Br%C3%A9sil).jpg
+- `kyanite/005.jpg`: Parent Géry, Public domain, https://commons.wikimedia.org/wiki/File:Disth%C3%A8ne3_(%3Dcyanite)_(Br%C3%A9sil).jpg
+- `kyanite/006.jpg`: Parent Géry, Public domain, https://commons.wikimedia.org/wiki/File:Disth%C3%A8ne4_(%3Dcyanite)_(Br%C3%A9sil).jpg
+- `kyanite/007.jpg`: Marco Hazard from Hong Kong, Hong Kong, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Gemstone_Collection_-_Kyanite_(16263672320).jpg
+- `kyanite/008.jpg`: DerHexer, Wikimedia Commons, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Harvard_Museum_of_Natural_History._Kyanite._Barra_do_Salinas,_Coronel_Murta,_Minas_Gerais,_Brazil_(DerHexer)_2012-07-20.jpg
+- `biotite/000.jpg`: Parent Géry, Public domain, https://commons.wikimedia.org/wiki/File:Almandin,_biotite,_plagioclase.jpg
+- `biotite/002.jpg`: Francesco Bini, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Alta,_musei,_campioni_di_roccia,_zircone,_biotite_e_albite,_dal_seiland.jpg
+- `biotite/003.jpg`: Thomas Quine, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Biotite_(49836016437).jpg
+- `biotite/004.jpg`: Rama., CC BY-SA 2.0 fr, https://commons.wikimedia.org/wiki/File:Biotite_and_chlorite_gneiss_mg_7971.jpg
+- `biotite/005.jpg`: Rama., CC BY-SA 2.0 fr, https://commons.wikimedia.org/wiki/File:Biotite_and_Chlorite_Gneiss_with_graphite_mg_7943.jpg
+- `biotite/006.jpg`: Dexter Perkins, CC0, https://commons.wikimedia.org/wiki/File:Biotite_crystals_(GeoDIL_number_-_6).jpg
+- `biotite/007.jpg`: Kritzolina, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Biotite_from_Germany_01.jpg
+- `biotite/008.jpg`: Kritzolina, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Biotite_from_Germany_02.jpg
+- `lepidolite/005.jpg`: Lech Darski, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lepidolite_-_Virgem_da_Lapa,_Minas_Gerais,_Brazil..jpg
+- `lepidolite/006.jpg`: Philippe Giabbanelli, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Lepidolite_(Brazil).jpg
+- `lepidolite/007.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Lepidolite_(GeoDIL_number_-_1854).jpg
+- `lepidolite/008.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Lepidolite_(GeoDIL_number_-_2333).jpg
+- `lepidolite/009.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Lepidolite_(GeoDIL_number_-_842).jpg
+- `lepidolite/010.jpg`: Zbynek Burival, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lepidolite_(trilithionite)_from_Ro%C5%BEn%C3%A1,_Czech_Republic.jpg
+- `lepidolite/011.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Lepidolite_01_10x_(39576790652).jpg
+- `lepidolite/012.jpg`: L. Carion (Carion Minéraux http://www.carionmineraux.com), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Lepidolite_from_Bahia_in_Brazil_-_carionmineraux_01.jpg
+- `muscovite/000.jpg`: Rygel, M.C., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:440170-5_muscovite_50x_XPL.jpg
+- `muscovite/001.jpg`: Francesco Bini, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Alta,_musei,_campioni_di_roccia,_muscovite-granato_e_tormalina,_da_langfjord.jpg
+- `muscovite/004.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Brazillianite,_muscovite_1.JPG
+- `muscovite/005.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Brazillianite,_muscovite_2.JPG
+- `muscovite/006.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Brazillianite,_muscovite.JPG
+- `muscovite/007.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Bronzite_with_muscovite_(GeoDIL_number_-_1628).jpg
+- `muscovite/011.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Garnet,_muscovite_and_quartz_(GeoDIL_number_-_354).jpg
+- `muscovite/012.jpg`: Roger from Derby, UK, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Geology_Exhibits_QR_Coded_Derby_Museum_Muscovite_obscured_QR.jpg
+- `olivine/000.jpg`: Ringwoodit, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Barred_Olivine_Chondrule_XPL.jpg
+- `olivine/001.jpg`: Sciencia58, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lava_-_Olivine_-_Azores.jpg
+- `olivine/002.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Olivine_(GeoDIL_number_-_528).jpg
+- `olivine/003.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Olivine_01_10x_(38897865194).jpg
+- `olivine/004.jpg`: Dave Dyet http://www.shutterstone.com http://www.dyet.com, Public domain, https://commons.wikimedia.org/wiki/File:Olivine_3328.jpg
+- `olivine/005.jpg`: Renhour48, CC0, https://commons.wikimedia.org/wiki/File:Olivine_a%C3%A9rolie_20.jpg
+- `olivine/006.jpg`: Dexter Perkins, CC0, https://commons.wikimedia.org/wiki/File:Olivine_at_San_Carlos_(GeoDIL_number_-_3130).jpg
+- `olivine/007.jpg`: Dexter Perkins, CC0, https://commons.wikimedia.org/wiki/File:Olivine_at_San_Carlos_(GeoDIL_number_-_3131).jpg
+- `prehnite/000.jpg`: Mike Beauregard from Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:A_tumultuous_kerfuffle_of_bubbly_prehnite_(8416053134).jpg
+- `prehnite/001.jpg`: Marie-Lan Taÿ Pamart, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Babingtonite_on_prehnite_Shan_Li_Yuan_MNHN_Min%C3%A9ralogie.jpg
+- `prehnite/002.jpg`: Parent Géry, Public domain, https://commons.wikimedia.org/wiki/File:Okenite,_prehnite_1.jpg
+- `prehnite/003.jpg`: Parent Géry, Public domain, https://commons.wikimedia.org/wiki/File:Okenite,_prehnite_2.jpg
+- `prehnite/004.jpg`: Parent Géry, Public domain, https://commons.wikimedia.org/wiki/File:Okenite,_prehnite_3.jpg
+- `prehnite/005.jpg`: Parent Géry, Public domain, https://commons.wikimedia.org/wiki/File:Okenite,_prehnite.jpg
+- `prehnite/006.jpg`: John Sobolewski (JSS), CC BY 3.0, https://commons.wikimedia.org/wiki/File:Pectolite,_Prehnite-320238.jpg
+- `prehnite/007.jpg`: Patafisik, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Prehnite_-_Mus%C3%A9um_d%27histoire_naturelle_de_Grenoble_01.jpg
+- `augite/001.jpg`: Rock Currier, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Augite_-_La_Panchita_Mine,_Mun_de_La_Pe,_Oaxaca,_Mexico.jpg
+- `augite/002.jpg`: Aangelo, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Augite_-_Monzoni,_Trentino,_Italia_04.jpg
+- `augite/003.jpg`: Rock Currier, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Augite_-_Ross_Island,_Victoria_Land,_Eastern_Antarctica.jpg
+- `augite/004.jpg`: Belemnite16, CC0, https://commons.wikimedia.org/wiki/File:Augite_(2024).jpg
+- `augite/005.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Augite_(GeoDIL_number_-_1604).jpg
+- `augite/006.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Augite_(GeoDIL_number_-_1619).jpg
+- `augite/007.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Augite_(GeoDIL_number_-_1620).jpg
+- `augite/008.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Augite_(GeoDIL_number_-_403).jpg
+- `rhodonite/000.jpg`: CarlesMillan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:8224M-rhodonite3.jpg
+- `rhodonite/001.jpg`: Fernando Brederodes, CC0, https://commons.wikimedia.org/wiki/File:Clino-suenoite,_Rhodonite,_Spessartine-653671.jpg
+- `rhodonite/002.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cummingtonite,_rhodonite_1.jpg
+- `rhodonite/003.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cummingtonite,_rhodonite,_garnet_1.jpg
+- `rhodonite/004.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cummingtonite,_rhodonite,_garnet_2.jpg
+- `rhodonite/005.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cummingtonite,_rhodonite,_garnet_3.jpg
+- `rhodonite/006.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cummingtonite,_rhodonite,_garnet_4.jpg
+- `rhodonite/007.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cummingtonite,_rhodonite,_garnet_5.jpg
+- `spodumene/000.jpg`: Géry Parent, Copyrighted free use, https://commons.wikimedia.org/wiki/File:Kunzite_et_aigue-marine_sur_quartz_(Pakistan).jpg
+- `spodumene/001.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kunzite,_elba%C3%AFte,_cleavelandite,_quartz.JPG
+- `spodumene/002.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kunzite,_elba%C3%AFte,_cleavelandite,_quatz_1.JPG
+- `spodumene/003.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kunzite,_tourmaline,_pollucite_1.jpg
+- `spodumene/004.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kunzite,_tourmaline,_pollucite_2.jpg
+- `spodumene/005.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kunzite,_tourmaline,_pollucite_3.jpg
+- `spodumene/006.jpg`: U.S.Geological Survey, Public domain, https://commons.wikimedia.org/wiki/File:Spodumene_-_giant_crystals_-_Etta_mine,_Black_Hills,_Pennington_County,_South_Dakota.jpg
+- `spodumene/007.jpg`: U.S.Geological Survey, Public domain, https://commons.wikimedia.org/wiki/File:Spodumene_-_large_crystals_in_granite_-_Etta_mine,_Keystone,_Pennington_County,_South_Dakota.jpg
+- `aventurine/000.jpg`: Bordercolliez, CC0, https://commons.wikimedia.org/wiki/File:Aventurine_1.jpg
+- `aventurine/001.jpg`: MAURO CATEB from Brazil, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Aventurine_pebbles_(6390241853).jpg
+- `aventurine/002.jpg`: Mauro Cateb, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Aventurine_pebbles.jpg
+- `aventurine/003.jpg`: Maatpublishing, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:GreenAventurine.jpg
+- `aventurine/004.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Quartz,_aventurine_(GeoDIL_number_-_2517).jpg
+- `aventurine/005.jpg`: Stephanie Clifford from Arlington, VA, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Aventurine_(2933051750).jpg
+- `aventurine/006.jpg`: Stephanie Clifford from Arlington, VA, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Aventurine_(2933084852).jpg
+- `aventurine/007.jpg`: Doobuzz at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Aventurine.jpg
+- `agate-chalcedony/000.jpg`: James St. John, CC BY 4.0, https://commons.wikimedia.org/wiki/File:%22Polka_Dot_Agate%22_(Polka_Dot_Agate_Mine,_northeast_of_Madras,_Oregon,_USA)_1.jpg
+- `agate-chalcedony/001.jpg`: James St. John, CC BY 4.0, https://commons.wikimedia.org/wiki/File:%22Polka_Dot_Agate%22_(Polka_Dot_Agate_Mine,_northeast_of_Madras,_Oregon,_USA)_3.jpg
+- `agate-chalcedony/002.jpg`: James St. John, CC BY 4.0, https://commons.wikimedia.org/wiki/File:%22Polka_Dot_Agate%22_(Polka_Dot_Agate_Mine,_northeast_of_Madras,_Oregon,_USA)_4.jpg
+- `agate-chalcedony/003.jpg`: Dave Dyet http://www.shutterstone.com http://www.dyet.com, Public domain, https://commons.wikimedia.org/wiki/File:01761_Agate.jpg
+- `agate-chalcedony/004.jpg`: John Rusk from Berkeley, CA, United States of America, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2014-07-12-12.12.03_ZS_PMax_Milky_White_Agate-1-1_(14638560945).jpg
+- `agate-chalcedony/005.jpg`: John Rusk from Berkeley, CA, United States of America, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2014-07-12-12.18.12_ZS_PMax_Milky_White_Agate-1_(14451964008).jpg
+- `agate-chalcedony/006.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Acton_Agate_(54662989537).jpg
+- `agate-chalcedony/007.jpg`: Stephanie Clifford from Arlington, VA, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Agate_(2931685407).jpg
+- `amethyst/000.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Amethyst_(GeoDIL_number_-_2730).jpg
+- `amethyst/001.jpg`: RegionVisitor90, CC0, https://commons.wikimedia.org/wiki/File:Amethyst_@_Woodsie%E2%80%99s_Gem_Shop,_Nichols_Point_20250215-123601.jpg
+- `amethyst/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amethyst_crystals_with_hematite_inclusions_1.jpg
+- `amethyst/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amethyst_crystals_with_hematite_inclusions_3.jpg
+- `amethyst/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amethyst_crystals_with_hematite_inclusions_4.jpg
+- `amethyst/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amethyst_crystals_with_hematite_inclusions_5.jpg
+- `amethyst/007.jpg`: AdamStejskal, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Luxury_Amethyst_from_Slovakia,_Banska_Stiavnica.jpg
+- `amethyst/008.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amethyst_crystals_with_hematite_inclusions_2.jpg
+- `citrine/000.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Am%C3%A9thyste,_citrine_7100.2687.jpg
+- `citrine/001.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Am%C3%A9thyste,_citrine_7100.2691.jpg
+- `citrine/002.jpg`: © Pierre André, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Citrine_-_Minas_Gerais_(_Br%C3%A9sil).jpg
+- `citrine/003.jpg`: Cedaric, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Citrine_(10902015484).jpg
+- `citrine/004.jpg`: Cedaric, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Citrine_(10902113316).jpg
+- `citrine/005.jpg`: Cedaric, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Citrine_(10902227283).jpg
+- `citrine/006.jpg`: Cedaric, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Citrine_(10902327684).jpg
+- `citrine/007.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Citrine_(GeoDIL_number_-_310).jpg
+- `jasper/000.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:%22Succor_Creek_Jasper%22_(Succor_Creek_Canyon_area,_Oregon,_USA)_1.jpg
+- `jasper/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:%22Succor_Creek_Jasper%22_(Succor_Creek_Canyon_area,_Oregon,_USA)_2.jpg
+- `jasper/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:%22Succor_Creek_Jasper%22_(Succor_Creek_Canyon_area,_Oregon,_USA)_3.jpg
+- `jasper/003.jpg`: Deidre Woollard, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Biggs_jasper_on_carpet.jpg
+- `jasper/004.jpg`: Captain Tenneal from Rapid, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Biggs_jasper_with_rock_interface.jpeg
+- `jasper/005.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Brecciated_Jasper_(54664055034).jpg
+- `jasper/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Brecciated_jasper_1.jpg
+- `jasper/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Brecciated_jasper_2.jpg
+- `milky-quartz/000.jpg`: Henry Kellner, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Milk_quartz_4450.jpg
+- `milky-quartz/001.jpg`: Jarek Tuszyński, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Milk_quartz_octahedron_-_01.jpg
+- `milky-quartz/002.jpg`: Baobaogiaphat1234567890, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Milk_quartz.jpg
+- `milky-quartz/003.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Milky_quartz_-_SiO2_(24835609222).jpg
+- `milky-quartz/004.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Milky_quartz_-_SiO2_(24860254231).jpg
+- `milky-quartz/005.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Milky_quartz_-_SiO2_(24953567955).jpg
+- `milky-quartz/006.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Milky_quartz_-_SiO2_(25825335797).jpg
+- `milky-quartz/007.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Milky_quartz_-_SiO2_(26017492522).jpg
+- `opal/000.jpg`: Eunostos, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Anorthite_labradorite_et_opale,_galerie_de_min%C3%A9ralogie_du_Mus%C3%A9um_national_d%27histoire_naturelle.jpg
+- `opal/001.jpg`: Eunostos, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Anorthite_labradorite_et_opale.JPG
+- `opal/002.jpg`: Maatpublishing, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Black_and_Brown_Opal.jpg
+- `opal/003.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Botryoidal_Opaline_Silica_(55155787230).jpg
+- `opal/004.jpg`: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chrome_opal_from_Turkey._Erbil_Stones_and_Gems_Museum,_Erbil_Citadel,_Hawler,_Iraq.jpg
+- `opal/005.jpg`: Stannatsw, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Common_Rough_Opal.jpg
+- `opal/006.jpg`: Lech Darski, Public domain, https://commons.wikimedia.org/wiki/File:Dendrite_Opal_-_Inonu_Co._Eskisehir_Anatolia,_Turkey.jpg
+- `opal/007.jpg`: Francesco Bini, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Erzurum,_madrasa_dei_minareti_gemelli,_collezione_di_minerali,_opale_rosso_fuoco.jpg
+- `rock-crystal/000.jpg`: W.carter, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Clear_quartz,_rock_crystals_1.jpg
+- `rock-crystal/001.jpg`: W.carter, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Clear_quartz,_rock_crystals_2.jpg
+- `rock-crystal/002.jpg`: Artyom Svetlov, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Moscow_State_University_rock_crystal_2014-01_1389530222.JPG
+- `rock-crystal/003.jpg`: Artyom Svetlov, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Moscow_State_University_rock_crystal_2014-01_1389530547.JPG
+- `rock-crystal/004.jpg`: Artyom Svetlov, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Moscow_State_University_rock_crystal_2014-01_1389530601.JPG
+- `rock-crystal/005.jpg`: Artyom Svetlov, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Moscow_State_University_rock_crystal_2014-01_1389530623.JPG
+- `rock-crystal/006.jpg`: Artyom Svetlov, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Moscow_State_University_rock_crystal_2014-01_1389530630.JPG
+- `rock-crystal/007.jpg`: SpeakingArch, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mughal_Casket_made_of_rock_crystal_set_with_rubies_and_emeralds_in_gold,_with_silver_mounts,_circa_1700-1750_CE,_Victoria_and_Albert_Museum,_London.jpg
+- `rose-quartz/000.jpg`: John Rusk from Berkeley, CA, United States of America, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2014-08-17-12.00.24_ZS_PMax_Rose_Quartz-1_(14949715972).jpg
+- `rose-quartz/001.jpg`: Vsatinet, CC0, https://commons.wikimedia.org/wiki/File:Caterpillar_on_a_piece_of_rose_quartz.jpg
+- `rose-quartz/002.jpg`: Marco Hazard from Hong Kong, Hong Kong, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Gemstone_Collection_-_Rose_Quartz_Chunk_(16069327229).jpg
+- `rose-quartz/003.jpg`: Marco Hazard from Hong Kong, Hong Kong, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Gemstone_Collection_-_Rose_Quartz_Chunk_(16069621437).jpg
+- `rose-quartz/004.jpg`: Marco Hazard from Hong Kong, Hong Kong, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Gemstone_Collection_-_Rose_Quartz_Chunk_(16253624981).jpg
+- `rose-quartz/005.jpg`: Maatpublishing, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Raw_rose_quartz.jpg
+- `rose-quartz/006.jpg`: Stephanie Clifford from Arlington, VA, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rose_Quartz_(2932193241).jpg
+- `rose-quartz/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rose_quartz_(32132819430).jpg
+- `smoky-quartz/003.jpg`: Mauro Cateb, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Brazilian_smoky_quartz_-_1.jpg
+- `smoky-quartz/004.jpg`: Mauro Cateb, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Brazilian_smoky_quartz.jpg
+- `smoky-quartz/005.jpg`: AdamStejskal, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Citrine_x_Smoky_quartz_gemstone_from_Czech_Republic_South_of_Bohemia.jpg
+- `smoky-quartz/006.jpg`: Mark Joseph Wylie, Public domain, https://commons.wikimedia.org/wiki/File:Cryolite,_Prosopite,_Zinnwaldite,_Smoky_Quartz,_Albite-434598.jpg
+- `smoky-quartz/010.jpg`: Artyom Svetlov, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Moscow_State_University_smoky_quartz_2014-01_1389530614.JPG
+- `smoky-quartz/011.jpg`: Artyom Svetlov, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Moscow_State_University_smoky_quartz_2014-01_1389530909.JPG
+- `smoky-quartz/012.jpg`: Tiia Monto, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Mountain_chrystal_and_smoky_quartz.jpg
+- `smoky-quartz/013.jpg`: Bryan Barnes, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:NM_Smokey_Quartz_with_Garnet.jpg
+- `tigers-eye/000.jpg`: Doronenko, CC BY 3.0, https://commons.wikimedia.org/wiki/File:2010_-_tigers_eye.jpg
+- `tigers-eye/001.jpg`: Linas Juozėnas, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Blue_tiger_eye_-_falcon_eye.jpg
+- `tigers-eye/002.jpg`: W.carter, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Egg-shaped_tiger%27s_eye_quartz_1.jpg
+- `tigers-eye/003.jpg`: W.carter, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Egg-shaped_tiger%27s_eye_quartz_2.jpg
+- `tigers-eye/004.jpg`: Globetrotter19, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Hawk%27s_eye_and_tiger%27s_eye_gems_in_HNHM._-_Ludovika_Sq_2-6.,_District_VIII.,_Budapest.JPG
+- `tigers-eye/005.jpg`: “Jon Zander (Digon3)”, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Polished_Tiger%27s_eye_Macro.JPG
+- `tigers-eye/006.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Tiger_eye_(GeoDIL_number_-_2519).jpg
+- `tigers-eye/007.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Tiger_eye_(GeoDIL_number_-_702).jpg
+- `sodalite/001.jpg`: Douglas Watts, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Cancrinite,_Nepheline,_Sodalite,_Annite-463949.jpg
+- `sodalite/003.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Sodalite_(GeoDIL_number_-_2371).jpg
+- `sodalite/004.jpg`: Philippe Giabbanelli, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Sodalite_(Mineral).jpg
+- `sodalite/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Sodalite_(Po%C3%A7os_de_Caldas_Alkaline_Complex,_Late_Cretaceous,_76-78_Ma;_Po%C3%A7os_de_Caldas_Plateau,_Brazil)_1.jpg
+- `sodalite/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Sodalite_(Po%C3%A7os_de_Caldas_Alkaline_Complex,_Late_Cretaceous,_76-78_Ma;_Po%C3%A7os_de_Caldas_Plateau,_Brazil)_2.jpg
+- `sodalite/007.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Sodalite_01_10x_(24749330467).jpg
+- `sodalite/008.jpg`: Marie-Lan Taÿ Pamart, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Sodalite_Badakhshan_Min%C3%A9raux_SU.jpg
+- `sodalite/009.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Sodalite_Blue_Granite_(sodalite_metasomatite)_(Swartbooisdrif_Sodalite_Deposit,_Proterozoic;_quarry_near_Swartbooisdrif,_Namibia)_1.jpg
+- `staurolite/000.jpg`: Piotr Sosnowski, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%C5%81upek_serycytowy_ze_staurolitem.jpg
+- `staurolite/001.jpg`: Virginia State Parks, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Raw_Fairy_Stones_-_staurolite_crystallizes_into_the_shape_of_crosses_60_and_90_degrees_(26224799371).jpg
+- `staurolite/002.jpg`: Virginia State Parks, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Raw_Fairy_stones_(25688316703).jpg
+- `staurolite/003.jpg`: Dexter Perkins, CC0, https://commons.wikimedia.org/wiki/File:Staurolite_(GeoDIL_number_-_261).jpg
+- `staurolite/004.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Staurolite_(GeoDIL_number_-_838).jpg
+- `staurolite/005.jpg`: Lech Darski, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Staurolite_(Staurolit)_-_Pestsovye_Keivy,_Keivy_Mountains,_Kola_Peninsula,_Murmanskaja_Oblast%27,_Northern_Region,_Russia.jpg
+- `staurolite/006.jpg`: Lech Darski, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Staurolite_(Staurolit)_-_Pestsovye_Keivy,_Keivy_Mountains,_Kola_Peninsula,_Murmanskaja_Oblast%27,_Northern_Region,.jpg
+- `staurolite/007.jpg`: MarchHare1977 at Russian Wikipedia, CC0, https://commons.wikimedia.org/wiki/File:Staurolite_002.jpg
+- `stilbite/000.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Calc%C3%A9doine_sur_stilbite_(Lonavala_Quarry,_Lonavale_(Lonavala),_Poonah,_Maharashtra_-_India)_1.jpg
+- `stilbite/001.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Calc%C3%A9doine_sur_stilbite_(Lonavala_Quarry,_Lonavale_(Lonavala),_Poonah,_Maharashtra_-_India)_2.jpg
+- `stilbite/002.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Calc%C3%A9doine_sur_stilbite_(Lonavala_Quarry,_Lonavale_(Lonavala),_Poonah,_Maharashtra_-_India)_3.jpg
+- `stilbite/003.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Calc%C3%A9doine_sur_stilbite_(Lonavala_Quarry,_Lonavale_(Lonavala),_Poonah,_Maharashtra_-_India).jpg
+- `stilbite/004.jpg`: Parent Géry, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Calc%C3%A9doine,_stilbite_1100.1.FS2014.jpg
+- `stilbite/005.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Calc%C3%A9doine,_stilbite_Wagholi_Quarry,_Wagholi,_Pune_District_(Poonah_District),_Maharashtra,_India.jpeg
+- `stilbite/006.jpg`: TheUltimateGrass, CC0, https://commons.wikimedia.org/wiki/File:Cavansite_on_Stilbite.jpg
+- `stilbite/007.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Cavansite_sur_stilbite_(Inde)_1.JPG
+- `talc/001.jpg`: Watstinwoods, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:HKU_Stephen_Hui_Museum_Rock_Talc_%E6%BB%91%E7%9F%B3_Johnson%27s_Baby_Powder.JPG
+- `talc/002.jpg`: Beatrice Murch from Buenos Aires, Argentina, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Museo_de_La_Plata_-Talco,_Silicato_de_magnesio.jpg
+- `talc/003.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Talc_(GeoDIL_number_-_2343).jpg
+- `talc/004.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Talc_(GeoDIL_number_-_2348).jpg
+- `talc/005.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Talc_(GeoDIL_number_-_2349).jpg
+- `talc/006.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Talc_01_10x_(25746722478).jpg
+- `talc/007.jpg`: Anushka10patel, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Talc_and_marble_rock_2026.jpg
+- `talc/008.jpg`: Mike Pennington, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Talc_awaiting_shipment_from_the_Baltasound_pier_-_geograph.org.uk_-_6305019.jpg
+- `topaz/000.jpg`: Cape Minerals, CC BY 4.0, https://commons.wikimedia.org/wiki/File:0000294_topaz-blue.jpg
+- `topaz/001.jpg`: Captmondo, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:117kgTopazFromBrazil_NaturhistorischesMuseum_Nov14-10.jpg
+- `topaz/002.jpg`: thisisbossi from Washington, DC, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2009_04_19_-_4675_-_Washington_DC_-_Natural_History_Museum_-_Topaz_(3527504054).jpg
+- `topaz/003.jpg`: thisisbossi from Washington, DC, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2009_04_19_-_4682_-_Washington_DC_-_Natural_History_Museum_-_Topaz_(3527510336).jpg
+- `topaz/004.jpg`: Thomas Quine, CC BY 2.0, https://commons.wikimedia.org/wiki/File:3,000_carat_topaz_(25747130898).jpg
+- `topaz/005.jpg`: Géry PARENT, Public domain, https://commons.wikimedia.org/wiki/File:Fluorapatite,_topaz,_quartz.jpg
+- `topaz/006.jpg`: Marco Hazard from Hong Kong, Hong Kong, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Gemstone_Collection_-_Topaz_(15646348858).jpg
+- `topaz/007.jpg`: Marco Hazard from Hong Kong, Hong Kong, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Gemstone_Collection_-_Topaz_(15646349048).jpg
+- `tourmaline/000.jpg`: Judy Gallagher, CC BY 2.0, https://commons.wikimedia.org/wiki/File:054_366_-_Watermelon_tourmaline,_February_23,_2024_(53548565963).jpg
+- `tourmaline/001.jpg`: Moreau.henri, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:260_Tourmaline.JPG
+- `tourmaline/002.jpg`: Memarekabir, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bi_colore_tourmaline.jpg
+- `tourmaline/003.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Blue_Tourmaline_(GeoDIL_number_-_1850).jpg
+- `tourmaline/004.jpg`: Mikenorton, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Boudinaged_tourmaline_crystals.jpg
+- `tourmaline/006.jpg`: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Golden_tourmaline_from_Pakistan._Erbil_Stones_and_Gems_Museum,_Erbil_Citadel,_Hawler,_Iraq.jpg
+- `tourmaline/007.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Indigolite_-_blue_tourmaline_Na(Li1.5Al1.5)Al6(Si6O18)(BO3)3(OH)3(OH)_(25837179880).jpg
+- `tourmaline/008.jpg`: Jan Helebrant, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Indigolite_-_blue_tourmaline_Na(Li1.5Al1.5)Al6(Si6O18)(BO3)3(OH)3(OH)_(26043667271).jpg
+- `willemite/000.jpg`: thisisbossi from Washington, DC, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2009_04_19_-_4741_-_Washington_DC_-_Natural_History_Museum_-_Willemite_(3526738823).jpg
+- `willemite/002.jpg`: Joan Rosell, from rosellminerals.com, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Catalan_willemite.jpg
+- `willemite/003.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Franklinite_and_willemite_(GeoDIL_number_-_402).jpg
+- `willemite/005.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Hardystonite_with_willemite_(GeoDIL_number_-_276).jpg
+- `willemite/006.jpg`: Jerry Cone, Public domain, https://commons.wikimedia.org/wiki/File:Murdochite,_Willemite-1041979.jpg
+- `willemite/007.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Troostite_(willemite),_calcite_and_franklinite_(GeoDIL_number_-_226).jpg
+- `willemite/009.jpg`: Jud McCranie, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Willemite_calcite_in_daylight.jpg
+- `willemite/010.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Willemite_with_zincite_(troosite)_and_franklinite_(GeoDIL_number_-_260).jpg
+- `wollastonite/000.jpg`: Artyom Svetlov, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Moscow_State_University_wollastonite_2014-01_1389530734.JPG
+- `wollastonite/001.jpg`: Daderot, CC0, https://commons.wikimedia.org/wiki/File:Wollastonite_-_Ishiyamadera_-_Otsu,_Shiga_-_DSC07477.JPG
+- `wollastonite/002.jpg`: Daderot, CC0, https://commons.wikimedia.org/wiki/File:Wollastonite_-_Ishiyamadera_-_Otsu,_Shiga_-_DSC07487.JPG
+- `wollastonite/003.jpg`: Daderot, CC0, https://commons.wikimedia.org/wiki/File:Wollastonite_-_Ishiyamadera_-_Otsu,_Shiga_-_DSC07491.JPG
+- `wollastonite/004.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Wollastonite_(GeoDIL_number_-_1634).jpg
+- `wollastonite/005.jpg`: The original uploader was hovden at English Wikipedia., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wollastonite_from_Willsboro,_NY.jpg
+- `wollastonite/006.jpg`: Didier Descouens, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wollastonite_madagascar.jpg
+- `wollastonite/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Wollastonite_skarn_(Valentine_deposit,_late_Mesoproterozoic,_1118_Ma;_Valentine_Mine_(Gouverneur_Talc_Company_No._4_Quarry),_south_of_Lake_Bonaparte,_northern_Lewis_County,_northern_New_York_State,_USA).jpg
+- `zircon/000.jpg`: GuyAntimoine25, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:-_Silicate_N%C2%B0_2141_ZIRCON_ch_10_mm_(La_Denise)_Le_Puy_en_Velay_(43)_Sect_17_A_inventaire_et_photo_Guy_PEGERE.jpg_r.jpg
+- `zircon/001.jpg`: Marie-Lan Taÿ Pamart, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Aegirine_zircon_orthoclase_MNHN_Min%C3%A9ralogie.jpg
+- `zircon/002.jpg`: Billjones94, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:An_authentic_Blue_Zircon_ring_being_tested_by_a_gemologist_in_Kolkata.jpg
+- `zircon/003.jpg`: Sailko, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Corindone_(dall%27alto),_crisoberillo,_spinello,_zircone,_zoiste_e_tormalina.JPG
+- `zircon/004.jpg`: Liza Kovaleva, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Deformed_crystal_of_zircon.jpg
+- `zircon/005.jpg`: Francesco Bini, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Erzurum,_madrasa_dei_minareti_gemelli,_collezione_di_minerali,_zircone.jpg
+- `zircon/006.jpg`: Nkansah Rexford, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Iziko_Mineral_Zircon_(cropped).jpg
+- `zircon/007.jpg`: Nkansah Rexford, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Iziko_Mineral_Zircon.JPG
+- `andesite/000.jpg`: P.W. Lipman, Public domain, https://commons.wikimedia.org/wiki/File:24-Stewart_Peak_andesite.jpg
+- `andesite/001.jpg`: Miguel Vera León from Santiago, Chile, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Andesita_Andesite_(2707246335).jpg
+- `andesite/002.png`: LassenNPS, Public domain, https://commons.wikimedia.org/wiki/File:Andesite_(15115877887).png
+- `andesite/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Andesite_(1997_lava_from_Soufriere_Hills_Volcano,_Montserrat,_Lesser_Antilles_Volcanic_Arc,_eastern_Caribbean_Sea)_1.jpg
+- `andesite/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Andesite_(1997_lava_from_Soufriere_Hills_Volcano,_Montserrat,_Lesser_Antilles_Volcanic_Arc,_eastern_Caribbean_Sea)_2.jpg
+- `andesite/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Andesite_(1997_lava_from_Soufriere_Hills_Volcano,_Montserrat,_Lesser_Antilles_Volcanic_Arc,_eastern_Caribbean_Sea)_3.jpg
+- `andesite/006.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Andesite_(55148822372).jpg
+- `andesite/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Andesite_(Buffalo_Peaks_Andesite,_Tertiary,_~34_Ma;_Buffalo_Peaks,_Park_County,_Colorado,_USA).jpg
+- `basalt/000.jpg`: Werner Schellmann, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Absolute_iron_accumulation_in_kaolinized_basalt._C_015.jpg
+- `basalt/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Acid-bleached_basalt_(Sulphur_Banks,_Kilauea_Volcano,_Hawaii)_2_(40296506863).jpg
+- `basalt/002.jpg`: Daniel Mayer (mav), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Adobe_Hills_-_basaltic_outcrop_along_Dobie_Meadows_Rd_in_Mono_County,_California.JPG
+- `basalt/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amygdaloidal_basalt_1.jpg
+- `basalt/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amygdaloidal_basalt_2.jpg
+- `basalt/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amygdaloidal_basalt_4.jpg
+- `basalt/006.jpg`: José Luís Ávila Silveira/Pedro Noronha e Costa, Public domain, https://commons.wikimedia.org/wiki/File:Arco_Natural_em_Lava_Basaltica_da_Faj%C3%A3_da_Ribeira_da_Areia,_ilha_de_S%C3%A3o_Jorge,_A%C3%A7ores.JPG
+- `basalt/007.jpg`: BeOCeKa, CC0, https://commons.wikimedia.org/wiki/File:Badascony_basaltorgeln.jpg
+- `diorite/000.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Diorite_(55150093650).jpg
+- `diorite/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Diorite_(Salem_Gabbro-Diorite,_Middle_Ordovician,_460_Ma;_Salem,_Essex_County,_Massachusetts,_USA)_2.jpg
+- `diorite/002.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Diorite_01_10x_(27879456709).jpg
+- `diorite/003.jpg`: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Diorite_head_of_an_unidentified_woman._Probably_from_Tell_Telloh_(Girsu),_Iraq._Reign_of_Gudea,_2144-2124_BCE._Vorderasiatisches_Museum,_Berlin.jpg
+- `diorite/004.jpg`: Amcyrus2012, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Diorite_label.JPG
+- `diorite/005.jpg`: Amcyrus2012, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Diorite_MA.JPG
+- `diorite/006.jpg`: Derbrauni, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Natrolite_in_Diorite.jpg
+- `diorite/007.jpg`: Pekachu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Orbicular_diorite_from_Ainoura,_Taku_at_History_and_Folklore_Museum.jpg
+- `gabbro/000.jpg`: Наталія Шевченко, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Extracted_Antik_Nero_gabbro_block_Luhove_deposit_Ukraine.jpg
+- `gabbro/001.png`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Gabbro_(54779344990).png
+- `gabbro/002.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Gabbro_(55221912902).jpg
+- `gabbro/003.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Gabbro_(55221912912).jpg
+- `gabbro/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Gabbro_(Duluth_Complex,_Mesoproterozoic,_1099_Ma;_Rt._1_roadcut_between_Heart_Lake_%26_Little_Spring_Lake,_Minnesota,_USA)_1.jpg
+- `gabbro/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Gabbro_(Duluth_Complex,_Mesoproterozoic,_1099_Ma;_Rt._1_roadcut_between_Heart_Lake_%26_Little_Spring_Lake,_Minnesota,_USA)_2.jpg
+- `gabbro/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Gabbro_(Duluth_Complex,_Mesoproterozoic,_1099_Ma;_Rt._1_roadcut_between_Heart_Lake_%26_Little_Spring_Lake,_Minnesota,_USA)_3.jpg
+- `gabbro/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Gabbro_(Duluth_Complex,_Mesoproterozoic,_1099_Ma;_Rt._1_roadcut_between_Heart_Lake_%26_Little_Spring_Lake,_Minnesota,_USA)_4.jpg
+- `granite/000.jpg`: Moreau.henri, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:380_Granite_porphiro%C3%AFde_gris_Ploun%C3%A9vez-Quintin.JPG
+- `granite/001.png`: Thomas Arney, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:3D_Weardale_Granite.png
+- `granite/002.jpg`: Thamizhpparithi Maari, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:A_close-up_of_granite_metal.JPG
+- `granite/003.jpg`: Mike Beauregard from Nunavut, Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:A_granite_pluton_with_a_soapstone_inclusion.jpg
+- `granite/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amazon_Gold_Granite_(graphic_granite)_(Brazil)_1_(34159680004).jpg
+- `granite/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amazon_Gold_Granite_(graphic_granite)_(Brazil)_3_(35003404125).jpg
+- `granite/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Azul_Bahia_Granite_(sodalite_metasyenite,_Itabuna_Syenite_Complex,_Neoproterozoic,_~676_Ma;_Fazenda_Hiassu,_Bahia_State,_Brazil)_11_(33963811976).jpg
+- `granite/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Azul_Bahia_Granite_(sodalite_metasyenite,_Itabuna_Syenite_Complex,_Neoproterozoic,_~676_Ma;_Fazenda_Hiassu,_Bahia_State,_Brazil)_3_(33847839002).jpg
+- `obsidian/000.jpg`: cogdogblog, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2014-365-8_Obsidian_Chimed_(11850388346).jpg
+- `obsidian/001.jpg`: Ivan Petrovich Vtorov, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2017-blank-obsidian-Armenia.jpg
+- `obsidian/002.jpg`: Ivan Petrovich Vtorov, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2017-Obsidian-Armenia-Vtorov.jpg
+- `obsidian/003.jpg`: Ivtorov, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2017-Obsidian-conchoidal-fracture.jpg
+- `obsidian/004.jpg`: NTNU Vitenskapsmuseet, CC BY 2.0, https://commons.wikimedia.org/wiki/File:A_new_obsidian_tool_has_been_recovered!_(7266561564).jpg
+- `obsidian/005.jpg`: Mav at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Crusted_obsidian_at_Mono_Craters-1000px.jpg
+- `obsidian/006.jpg`: Abraham Zakik, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Entrada_a_la_mina_de_obsidiana.jpg
+- `obsidian/007.png`: Rémy Crassard , Michael D. Petraglia, Nick A. Drake, Paul Breeze, Bernard Gratuze, Abdullah Alsharekh, Mounir Arbach, Huw S. Groucutt, Lamya Khalidi, Nils Michelsen, Christian J. Robin, Jérémie Schiettecatte, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Figure_13._Obsidian_analyses_at_Mundafan.png
+- `pegmatite/000.jpg`: Hermann Luyken, CC0, https://commons.wikimedia.org/wiki/File:2012.09.14.122816_Cremation_pegmatite_Yavapai_Point_Grand_Canyon_Arizona.jpg
+- `pegmatite/001.jpg`: Hermann Luyken, CC0, https://commons.wikimedia.org/wiki/File:2012.09.14.122828_Cremation_pegmatite_Yavapai_Point_Grand_Canyon_Arizona.jpg
+- `pegmatite/002.jpg`: Sailko, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Blocco_di_pegmatite_con_cristalli_di_ortosio,_albite,_quarzo,_tormalina_verde_e_lepidolite,_da_minas_geiras,_brasile.JPG
+- `pegmatite/003.jpg`: Charles Rollin Keyes (Life time: 1864-1942), Public domain, https://commons.wikimedia.org/wiki/File:Contact_Limestone_Pegmatite_PlateXXXV_Keyes_1895.jpg
+- `pegmatite/004.jpg`: Geomartin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Diopside-Titanite_Pegmatite.JPG
+- `pegmatite/005.jpg`: arlette1, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Filon_de_pegmatite.jpg
+- `pegmatite/008.jpg`: Shrekinspector, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Grainitic_Pegmatite.jpg
+- `pegmatite/009.jpg`: Helgi, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Graphic_Pegmatite.jpg
+- `peridotite/000.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Peridotite_(Baja_California,_Mexico)_1.jpg
+- `peridotite/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Peridotite_(Baja_California,_Mexico)_2.jpg
+- `peridotite/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Peridotite_(Baja_California,_Mexico)_3.jpg
+- `peridotite/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Peridotite_(Baja_California,_Mexico)_4.jpg
+- `peridotite/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Peridotite_(Baja_California,_Mexico)_5.jpg
+- `peridotite/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Peridotite_(Baja_California,_Mexico)_6.jpg
+- `peridotite/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Peridotite_%26_serpentinite_(Upper_Komatiitic_Unit,_Kidd-Munro_Assemblage,_Neoarchean,_2.711-2.717_Ga;_southwest_of_the_Potter_Mine,_east_of_Timmins,_Ontario,_Canada)_1_(40927190283).jpg
+- `peridotite/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Peridotite_%26_serpentinite_(Upper_Komatiitic_Unit,_Kidd-Munro_Assemblage,_Neoarchean,_2.711-2.717_Ga;_southwest_of_the_Potter_Mine,_east_of_Timmins,_Ontario,_Canada)_13_(47841679672).jpg
+- `pumice/000.jpg`: Ebiojo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_pumice_stone.jpg
+- `pumice/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Airfall_pumice_(~1065_A.D._eruption_of_Medicine_Lake_Volcano%27s_Glass_Mountain_eruptive_center,_northern_California,_USA).jpg
+- `pumice/002.jpg`: ScoriaPumice, CC0, https://commons.wikimedia.org/wiki/File:Andesitic_pumice_(Holocene,_6ka_Pasong_formation_of_Taal).jpg
+- `pumice/003.jpg`: ScoriaPumice, CC0, https://commons.wikimedia.org/wiki/File:Aphanitic_dacite_pumice_(Holocene,_June_15,_1991_eruption_of_Mt._Pinatubo).jpg
+- `pumice/006.jpg`: Unknown authorUnknown author, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Container,_pumice_(AM_1945.56-9).jpg
+- `pumice/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dacite_ash_%26_dacite_pumice_(15_June_1991_eruption_of_Mt._Pinatubo,_Luzon_Volcanic_Arc,_western_Luzon_Island,_northern_Philippines).jpg
+- `pumice/008.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dacite_pumice_(August_2006_eruption_of_Home_Reef_Volcano,_Tofua_Volcanic_Arc,_central_Tonga_Islands,_sw_Pacific_Ocean;_collected_at_beach_in_northern_Fiji_Islands)_2.jpg
+- `pumice/009.jpg`: ScoriaPumice, CC0, https://commons.wikimedia.org/wiki/File:Dacitic_pumice_(Holocene,_Mt._St_Helens).jpg
+- `rhyolite/000.jpg`: Parent Géry, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:B%C3%A9ryl_rouge_sur_gangue_de_rhyolite_(Wah-Wah_Mountains_Utah_-_USA)_1.jpg
+- `rhyolite/001.jpg`: Géry PARENT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bixbyite,_topaze,_rhyolite_7100.1940.jpg
+- `rhyolite/002.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Druzy_Quartz_on_Rhyolite_(55426519936).jpg
+- `rhyolite/003.jpg`: Michael C. Rygel, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Flow_banded_rhyolite.JPG
+- `rhyolite/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Garnet_Hill_Rhyolite_(Late_Eocene,_36-37_Ma;_Garnet_Hill,_White_Pine_County,_Nevada,_USA).jpg
+- `rhyolite/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Garnet_in_rhyolite_(Garnet_Hill_Rhyolite,_Late_Eocene,_36-37_Ma;_Garnet_Hill,_White_Pine_County,_Nevada,_USA).jpg
+- `rhyolite/006.jpg`: Doronenko, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Ground_rhyolite.jpg
+- `rhyolite/007.jpg`: Amcyrus2012, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pink_Rhyolite_Student_Sample.JPG
+- `scoria/000.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Altered_scoria_(Pacaya_Volcano,_Guatemala)_1.jpg
+- `scoria/001.jpg`: ScoriaPumice, CC0, https://commons.wikimedia.org/wiki/File:Andesitic_scoria_(Holocene,_Taal_2020_eruption).jpg
+- `scoria/002.jpg`: ScoriaPumice, CC0, https://commons.wikimedia.org/wiki/File:Basaltic_scoria_(Holocene,_Taal_1754_eruption).jpg
+- `scoria/003.jpg`: Dexter Perkins, CC0, https://commons.wikimedia.org/wiki/File:Caliche_and_scoria_(GeoDIL_number_-_522).jpg
+- `scoria/004.jpg`: Chmee2, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Detail_of_spatter-and-scoria_cone_flanks_Caldera_de_los_Cuervos_on_Lanzarote,_June_2013_(4).jpg
+- `scoria/005.jpg`: B.navez, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:FormicaLeo_Scorias.JPG
+- `scoria/006.jpg`: Pseudopanax at English Wikipedia, Public domain, https://commons.wikimedia.org/wiki/File:Griselinia_lucida_growing_on_scoria_on_Rangitoto_Island.jpg
+- `scoria/007.jpg`: Adityamadhav83, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Igneous-rock_(scoria_type)_at_Rushikonda,_Visakhapatnam.jpg
+- `syenite/000.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Agpaite_(pegmatitic_peralkline_nepheline_syenite)_(Khibina_Massif,_Late_Devonian,_362-365_Ma;_Nyorkpakhk_Mountain,_Kola_Peninsula,_far-nw_Russia)_(14838565410).jpg
+- `syenite/001.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Bear_Canyon_Triassic_Monzonite_or_Syenite_(55150093415).jpg
+- `syenite/002.jpg`: Watson, Thomas Leonard, Public domain, https://commons.wikimedia.org/wiki/File:Bulletin_426_Plate_XVI_B_Bowlder_Outcrop_of_Syenite.jpg
+- `syenite/003.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Contact_Between_Syenite_and_Anorthosite_(55133368439).jpg
+- `syenite/004.jpg`: Kevin Walsh from Bicester, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Eudialyte_syenite_from_Kola,_Russia.jpg
+- `syenite/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Eudialytic_metasyenite_(Kipawa_Syenite_Complex,_Mesoproterozoic,_994_Ma;_near_the_Kipawa_River,_Villedieu_Township,_Temiscamingue_County,_Quebec,_Canada)_3.jpg
+- `syenite/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Eudialytic_metasyenite_(Kipawa_Syenite_Complex,_Mesoproterozoic,_994_Ma;_near_the_Kipawa_River,_Villedieu_Township,_Temiscamingue_County,_Quebec,_Canada)_4.jpg
+- `syenite/007.jpg`: Frettie, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Granitesyenite_of_T%C5%99eb%C3%AD%C4%8D,_T%C5%99eb%C3%AD%C4%8D_District.jpg
+- `tuff/000.jpg`: Siim Sepp (Sandatlas), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:00188_IMG_0633_tuff.jpg
+- `tuff/001.jpg`: Mikenorton, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Acid_tuffs_on_Pared-y-Cefn_Hir.jpg
+- `tuff/002.jpg`: Volker Höhfeld, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Avc%C4%B1lar_04_1989_Tuffkegelbildung_4.jpg
+- `tuff/003.jpg`: Volker Höhfeld, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Avc%C4%B1lar_09_1983_Tuffkegel_mit_%E2%80%9EZipfel-M%C3%BCtze%E2%80%9C.jpg
+- `tuff/004.jpg`: Grosty, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Basalt_tuff_3.JPG
+- `tuff/005.jpg`: Qfl247 (talk), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:BishopTuff.jpg
+- `tuff/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dacitic_lapilli_metatuff_(dacitic_meta-lapillistone)_(Neoarchean,_~2.7-2.72_Ga;_vicinity_of_Soudan_Mine,_Soudan,_Minnesota,_USA)_2_(22281008670).jpg
+- `tuff/007.jpg`: Johannes Baier, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Deckentuff_Rosenegg.jpg
+- `tuff-breccia/000.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Auriferous_volcanic_breccia_(Little_Annie_Mine,_Summitville_Mining_District,_San_Juan_Mountains,_Colorado,_USA)_1_(16424612663).jpg
+- `tuff-breccia/001.jpg`: Woudloper, Public domain, https://commons.wikimedia.org/wiki/File:Flow_over_volcanic_breccia.JPG
+- `tuff-breccia/002.jpg`: Granitethighs, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Volcanic_breccia_Mt_Lidgbird_beach_Lord_Howe_Island_10June2011.jpg
+- `tuff-breccia/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Volcanic_breccia.jpg
+- `tuff-breccia/004.jpg`: Transity, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2004-05-06_14D_-_Shiprock,_NM.jpg
+- `tuff-breccia/005.jpg`: Geoprofi Lars, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2021-07-08_Opel-Zoo_196.jpg
+- `tuff-breccia/006.jpg`: Tiffany A. Rivera, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2493_sunstone_knoll.jpg
+- `tuff-breccia/007.jpg`: Moreau.henri, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:581_Lostmarch_Br%C3%A8che_sous-marine_provenant_d%27une_coul%C3%A9e_de_lave.jpg
+- `banded-iron-formation/000.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Banded_iron_formation_(Trommald_Formation,_Paleoproterozoic,_~1.87_Ga;_Portsmouth_Mine,_Cuyuna_North_Range,_Minnesota,_USA)_3_(50539271381).jpg
+- `banded-iron-formation/001.jpg`: Woudloper, CC BY-SA 1.0, https://commons.wikimedia.org/wiki/File:Banded_Iron_Formation_Barberton.jpg
+- `banded-iron-formation/002.jpg`: Graeme Churchard from Bristol, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Banded_iron_formation_Dales_Gorge.jpg
+- `banded-iron-formation/003.jpg`: Alicejmichel, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Banded_Iron_formation_Hammersley_fm.jpg
+- `banded-iron-formation/004.jpg`: Ismoon (talk) 19:14, 14 August 2019 (UTC), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Banded_iron_formation._Mus%C3%A9e_des_Confluences,_Lyon.jpg
+- `banded-iron-formation/005.jpg`: Daderot, CC0, https://commons.wikimedia.org/wiki/File:Banded_Iron,_Proterozoic,_Mary_Ellen_Mine,_Mesabit_Range,_St._Louis_County,_Minnesota,_USA_-_Houston_Museum_of_Natural_Science_-_DSC01375.JPG
+- `banded-iron-formation/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:BIF_(jaspilite_meta-BIF,_Paleoproterozoic_Minas_Gerais.jpg
+- `banded-iron-formation/007.jpg`: unknown, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:BifEZ.jpg
+- `bauxite/000.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Bauxite_(GeoDIL_number_-_156).jpg
+- `bauxite/001.jpg`: Mike Davis, CC0, https://commons.wikimedia.org/wiki/File:Bauxite_(GeoDIL_number_-_244).jpg
+- `bauxite/002.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Bauxite_01_(38709592564).jpg
+- `bauxite/003.jpg`: Max.kit, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bauxite_bedarieux_herault.jpg
+- `bauxite/004.jpg`: saphon, CC BY-SA 1.0, https://commons.wikimedia.org/wiki/File:Bauxite_h%C3%A9rault.JPG
+- `bauxite/005.jpg`: CaptJayRuffins, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bauxite_Industry_in_St._Ann_Parish20231011_120246~2.jpg
+- `bauxite/006.jpg`: Paul Morris, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Bauxite_Jamaica_1984.jpg
+- `bauxite/007.jpg`: Uncredited, Public domain, https://commons.wikimedia.org/wiki/File:Bauxite_mining,_Know_Indonesia..._Know_Your_Friend,_p21.jpg
+- `breccia/000.jpg`: Siim Sepp (Sandatlas), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:00078_12_cm_agate_breccia.jpg
+- `breccia/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Black_Beauty_Granite_(breccia)_(V%C3%A6rlandet_Island,_Norway)_3.jpg
+- `breccia/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Black_Beauty_Granite_(breccia)_(V%C3%A6rlandet_Island,_Norway)_6.jpg
+- `breccia/003.jpg`: Oregon Caves from Cave Junction, USA, Public domain, https://commons.wikimedia.org/wiki/File:Breccia_(9940637004).jpg
+- `breccia/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Breccia_(hydrothermal_vein_rock_from_mine_near_Joachimsthal,_Bohemia).jpg
+- `breccia/005.jpg`: XanaG, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Breccia_(Mosaic_Canyon).JPG
+- `breccia/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Breccia_(Shatter_Zone,_Late_Devonian;_Sand_Beach,_Mt._Desert_Island,_Maine,_USA)_15.jpg
+- `breccia/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Breccia_(Shatter_Zone,_Late_Devonian;_Sand_Beach,_Mt._Desert_Island,_Maine,_USA)_2.jpg
+- `chert-flint/000.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:%22Turritella_Agate%22_(partially_chertified_fossiliferous_lacustrine_limestone)_(Laney_Member,_Green_River_Formation,_Middle_Eocene;_North_Barrel_Springs_Draw,_south_of_Wamsutter,_Wyoming,_USA)_2_(19687779650).jpg
+- `chert-flint/001.jpg`: Frank Ruggles, Public domain, https://commons.wikimedia.org/wiki/File:1_FLAKE,_CHERT,_POSSIBLY_HEAT_ALTERED_(890be44f-95bf-4e47-bfee-8813ab80c8b2).jpg
+- `chert-flint/002.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Chert_01_10x_(38771990585).jpg
+- `chert-flint/003.jpg`: Olga Ernst, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chert_and_stromatolite-rich_dolomite_rock_(Pelindaba_Rock).jpg
+- `chert-flint/004.jpg`: Oregon Caves from Cave Junction, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Chert_Arch_(9940747223).jpg
+- `chert-flint/005.jpg`: Joseph H. Hartman, CC0, https://commons.wikimedia.org/wiki/File:Chert_Banding_in_the_Redwall_Limestone_(GeoDIL_number_-_1406).jpg
+- `chert-flint/006.jpg`: Oregon Caves from Cave Junction, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Chert_Compression_Fold_(9940472926).jpg
+- `chert-flint/007.jpg`: Chmee2, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Chert_in_Geopark_on_Albertov.JPG
+- `conglomerate/000.jpg`: Siim Sepp (Sandatlas), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:00142_9_cm_conglomerate.jpg
+- `conglomerate/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Alluvial_polymict_conglomerate_(Mount_Rogers_Formation,_Neoproterozoic,_750-760_Ma;_Fox_Creek_roadcut,_west_of_Troutdale,_Virginia,_USA)_105_(30200702550).jpg
+- `conglomerate/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Alluvial_polymict_conglomerate_(Mount_Rogers_Formation,_Neoproterozoic,_750-760_Ma;_Fox_Creek_roadcut,_west_of_Troutdale,_Virginia,_USA)_22_(29869219544).jpg
+- `conglomerate/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Alluvial_polymict_conglomerate_(Mount_Rogers_Formation,_Neoproterozoic,_750-760_Ma;_Fox_Creek_roadcut,_west_of_Troutdale,_Virginia,_USA)_23_(30463328096).jpg
+- `conglomerate/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Alluvial_polymict_conglomerate_(Mount_Rogers_Formation,_Neoproterozoic,_750-760_Ma;_Fox_Creek_roadcut,_west_of_Troutdale,_Virginia,_USA)_24_(29867672673).jpg
+- `conglomerate/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Alluvial_polymict_conglomerate_(Mount_Rogers_Formation,_Neoproterozoic,_750-760_Ma;_Fox_Creek_roadcut,_west_of_Troutdale,_Virginia,_USA)_25_(29867657753).jpg
+- `conglomerate/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Alluvial_polymict_conglomerate_(Mount_Rogers_Formation,_Neoproterozoic,_750-760_Ma;_Fox_Creek_roadcut,_west_of_Troutdale,_Virginia,_USA)_26_(30413053251).jpg
+- `conglomerate/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Alluvial_polymict_conglomerate_(Mount_Rogers_Formation,_Neoproterozoic,_750-760_Ma;_Fox_Creek_roadcut,_west_of_Troutdale,_Virginia,_USA)_30_(30383036412).jpg
+- `diatomite/000.jpg`: Fabio Ingrosso, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Cake_filitration_with_diatomaceous_earth.jpg
+- `diatomite/001.jpg`: Doc. RNDr. Josef Reischig, CSc., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Diatomaceous_earth_(251_10)_Diatomaceous_earth.jpg
+- `diatomite/002.jpg`: Zephyris, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Diatomaceous_Earth_DarkField.jpg
+- `diatomite/003.jpg`: SprocketRocket, CC0, https://commons.wikimedia.org/wiki/File:Diatomaceous_Earth.jpg
+- `diatomite/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Diatomite_(diatomaceous_earth)_Monterey_Formation_at_a_diatomite_quarry_just_south_of_Lompoc.jpg
+- `diatomite/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Diatomite_(Sisquoc_Formation,_Miocene-Pliocene;_Palos_Colorados_Quarry,_California,_USA)_1.jpg
+- `diatomite/006.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Diatomite_01_10x_(27890912589).jpg
+- `diatomite/007.jpg`: Tommy from Arad, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Diatomite_and_volcanic_tufa_layers.jpg
+- `dolostone/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dolomite_after_calcite_(Boldut_Mine,_Cavnic,_Maramures_County,_Romania)_1.jpg
+- `dolostone/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dolomite_after_calcite_(Boldut_Mine,_Cavnic,_Maramures_County,_Romania)_2.jpg
+- `dolostone/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dolomite_after_calcite,_plus_mottramite_(Tsumeb_Mine,_Tsumeb,_Namibia)_1.jpg
+- `dolostone/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dolomite_after_calcite,_plus_mottramite_(Tsumeb_Mine,_Tsumeb,_Namibia)_2.jpg
+- `dolostone/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dolomite_after_halite_(north_of_Orion,_Major_County,_Oklahoma,_USA).jpg
+- `dolostone/008.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dolostone_(Paleozoic;_Ohio,_USA).jpg
+- `dolostone/009.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dolostone_(Rockford_Limestone,_Lower_Mississippian;_Burkesville_West_Rt._90_roadcut,_Kentucky,_USA)_12_(31681359467).jpg
+- `dolostone/010.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dolostone_(Rockford_Limestone,_Lower_Mississippian;_Burkesville_West_Rt._90_roadcut,_Kentucky,_USA)_13_(39657662833).jpg
+- `rock-salt/000.jpg`: E4024, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_saleswoman_with_rock_salt.jpg
+- `rock-salt/001.jpg`: KKPCW, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Crystal_of_Rock_Salt_in_Expo_2005_Museum_-_1.jpg
+- `rock-salt/002.jpg`: KKPCW, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Crystal_of_Rock_Salt_in_Expo_2005_Museum_-_2.jpg
+- `rock-salt/003.jpg`: Zbynek Burival, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Halite-rock-salt-inowroclaw-poland.jpg
+- `rock-salt/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Highway_rock_salt_(37382600501).jpg
+- `rock-salt/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Ice_cream_rock_salt_(36712695053).jpg
+- `rock-salt/006.jpg`: אליעד מלין, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:LadybugOnRockSalt.JPG
+- `rock-salt/007.jpg`: אליעד מלין, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:LadybugOnRockSalt2.JPG
+- `rock-gypsum/000.jpg`: VictoriaGalbur, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_speleologist_highlights_a_gypsum_crystal.jpg
+- `rock-gypsum/001.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Anhydrite_and_gypsum_(GeoDIL_number_-_594).jpg
+- `rock-gypsum/002.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Anhydrite_and_gypsum_(GeoDIL_number_-_719).jpg
+- `rock-gypsum/003.jpg`: Benoit Potin, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Calcite_pseudomorph_after_gypsum,_Hettangian,_Saint-Chinian.jpg
+- `rock-gypsum/004.jpg`: Rygel, M.C., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chickenwire_Gypsum_anhydrite.jpg
+- `rock-gypsum/006.jpg`: Australian Transport Safety Bureau, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Derailed_gypsum_hopper_cars,_Ceduna,_train_5DD2_23,_Oct_2014.jpg
+- `rock-gypsum/007.jpg`: Mozzihh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Egg_on_gypsum_crystals_1802-0307.jpg
+- `rock-gypsum/008.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Gypsum_(GeoDIL_number_-_613).jpg
+- `shale/000.jpg`: M J Richardson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:0701_Shale_bing_at_Winchburgh_-_geograph.org.uk_-_1832354.jpg
+- `shale/001.jpg`: Hermann Luyken, CC0, https://commons.wikimedia.org/wiki/File:2012.09.14.112904_Bright_Angel_shale_Yavapai_Point_Grand_Canyon_Arizona.jpg
+- `shale/002.jpg`: Famartin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2015-10-22_16_38_47_Native_red_shale_and_clay_soil_along_Tranquility_Court_in_the_Franklin_Farm_section_of_Oak_Hill,_Virginia.jpg
+- `shale/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Banded_fine-grained_pyrite_in_shale_(Urquhart_Shale,_Mesoproterozoic;_Mt._Isa_Mines,_Queensland,_Australia)_(18940551220).jpg
+- `shale/004.jpg`: Ytiugibma, Public domain, https://commons.wikimedia.org/wiki/File:Bedshale.JPG
+- `shale/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Black_shale_(Sunbury_Shale,_Lower_Mississippian;_Tener_Mountain_roadcut,_southern_Ohio,_USA)_11_(35690107922).jpg
+- `shale/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Black_shale_(Sunbury_Shale,_Lower_Mississippian;_Tener_Mountain_roadcut,_southern_Ohio,_USA)_13_(35019552054).jpg
+- `shale/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Black_shale_(Sunbury_Shale,_Lower_Mississippian;_Tener_Mountain_roadcut,_southern_Ohio,_USA)_16_(35050008303).jpg
+- `anthracite/000.jpg`: Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:00047.BK--Retail_coal_pockets--Plan--Apron_and_gate_for_anthracite_coal_(c9fb8f0b-e82c-4c5c-adda-decb8cd223d0).jpg
+- `anthracite/001.jpg`: ILoveAllTrees, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Anthracite_(coal).jpg
+- `anthracite/002.jpg`: Leiem, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Anthracite_20180405_154008.jpg
+- `anthracite/003.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Anthracite_coal_(GeoDIL_number_-_897).jpg
+- `anthracite/004.jpg`: John Krygier, Public domain, https://commons.wikimedia.org/wiki/File:Anthracite_coal_(iridescent)_-_Kuperavage_Mine,_Pennsylvania,_USA.jpg
+- `anthracite/005.jpg`: John Krygier, Public domain, https://commons.wikimedia.org/wiki/File:Anthracite_coal_(iridescent)-258922.jpg
+- `anthracite/006.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Anthracite_Coal_01_10x_(38960276634).jpg
+- `anthracite/007.jpg`: Amcyrus2012, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Anthracite_Coal_label.JPG
+- `bituminous/000.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bituminous_coal_(Ferron_Sandstone_Member,_Mancos_Shale,_Upper_Cretaceous;_Bronco_Mine,_Emery_County,_Utah,_USA)_1.jpg
+- `bituminous/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bituminous_coal_(Ferron_Sandstone_Member,_Mancos_Shale,_Upper_Cretaceous;_Bronco_Mine,_Emery_County,_Utah,_USA)_10.jpg
+- `bituminous/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bituminous_coal_(Ferron_Sandstone_Member,_Mancos_Shale,_Upper_Cretaceous;_Bronco_Mine,_Emery_County,_Utah,_USA)_11.jpg
+- `bituminous/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bituminous_coal_(Ferron_Sandstone_Member,_Mancos_Shale,_Upper_Cretaceous;_Bronco_Mine,_Emery_County,_Utah,_USA)_12.jpg
+- `bituminous/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bituminous_coal_(Ferron_Sandstone_Member,_Mancos_Shale,_Upper_Cretaceous;_Bronco_Mine,_Emery_County,_Utah,_USA)_13.jpg
+- `bituminous/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bituminous_coal_(Ferron_Sandstone_Member,_Mancos_Shale,_Upper_Cretaceous;_Bronco_Mine,_Emery_County,_Utah,_USA)_14.jpg
+- `bituminous/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bituminous_coal_(Ferron_Sandstone_Member,_Mancos_Shale,_Upper_Cretaceous;_Bronco_Mine,_Emery_County,_Utah,_USA)_15.jpg
+- `bituminous/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bituminous_coal_(Ferron_Sandstone_Member,_Mancos_Shale,_Upper_Cretaceous;_Bronco_Mine,_Emery_County,_Utah,_USA)_16.jpg
+- `lignite/000.jpg`: Ahamed Kafir M, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lignite_Form.jpg
+- `lignite/001.jpg`: Gower, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lignite_from_Chlapowo_(Sosnowiec_Museum).jpg
+- `lignite/002.jpg`: KKPCW, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lignite_in_Pavilion_of_Aichi_Prefecture_Shinrin_Park.jpg
+- `lignite/003.jpg`: Prissantenbär, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Lignite_Klingenberg.jpg
+- `lignite/004.jpg`: Lorenzo UchihaNAVY, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lignite_prima_dell%27utilizzo.jpg
+- `lignite/005.png`: Sonal Khanolkar and Jyoti Sharma, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Middle_eocene_lignite_india.png
+- `lignite/006.jpg`: Didier Descouens, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pendeloque_en_lignite_Marsoulas_MHNT.PRE.2012.0.6.95.jpg
+- `lignite/007.jpg`: USGS, Public domain, https://commons.wikimedia.org/wiki/File:Pliocene_Lignite_Coal_Serbia.jpg
+- `chalk/000.jpg`: Parvathisri, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:1-chalk_powder_making-boiler.jpg
+- `chalk/001.jpg`: Parvathisri, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:1chalk_powder.jpg
+- `chalk/002.jpg`: No machine-readable author provided. Rl assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2005_squeegee_sponge_chalk.jpg
+- `chalk/004.jpg`: Neoclassicism Enthusiast, CC0, https://commons.wikimedia.org/wiki/File:Big_Dill_pickle-shaped_chalk,_unknown_designer,_produced_by_Fred,_circa_2023,_11.4_x_3.5_x_3.5_cm,_sold_at_Urban_Outfitters_in_the_Aventura_Mall_in_Florida,_US.jpg
+- `chalk/005.jpg`: Janbies, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Blessing_of_Chalk,_Frankincense_and_Myrrh_during_the_Mass_Liturgy_of_the_Epiphany_in_Poland.JPG
+- `chalk/006.jpg`: Janbies, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Blessing_of_Chalk,_Frankincense_and_Myrrh_during_the_Mass_Liturgy_of_the_Epiphany,_in_Poland.JPG
+- `chalk/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Chalk_(Annona_Chalk,_Upper_Cretaceous;_White_Cliffs_of_the_Little_River,_Arkansas,_USA)_(40795385595).jpg
+- `chalk/008.jpg`: Alina Zienowicz Ala z, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Chalk_(kreda)_1.JPG
+- `coquina/000.jpg`: Lumasella, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bivalve_coquina_limestone_Odessa.jpg
+- `coquina/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Coquina_(Anastasia_Formation,_Pleistocene_or_Holocene;_Cayo_Costa_Island,_Florida,_USA)_(26032505336).jpg
+- `coquina/002.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Coquina_01_10x_(39638698042).jpg
+- `coquina/003.jpg`: Ralphsmith6, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Coquina_Block.jpg
+- `coquina/004.jpg`: Wilson44691, Public domain, https://commons.wikimedia.org/wiki/File:CoquinaClose.jpg
+- `coquina/005.jpg`: Sergio Romerov, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Coquinas_de_Cd._Del_carmen_Campeche.jpg
+- `coquina/006.jpg`: Gabriele Delhey, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Denham_Coquina.JPG
+- `coquina/007.jpg`: Gabriele Delhey, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Denham_Coquinageb%C3%A4ude.JPG
+- `fossil-limestone/000.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Brachiopod_in_fossiliferous_limestone_(Lower_Mercer_Limestone,_Middle_Pennsylvanian;_Rock_Cut_railroad_cut,_south-southeast_of_Dresden,_Ohio,_USA)_1_(34250193342).jpg
+- `fossil-limestone/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Brachiopods_and_corals_in_fossiliferous_limestone_(Jeffersonville_Limestone,_Middle_Devonian;_Falls_of_the_Ohio,_southern_Indiana,_USA)_2_(33338148811).jpg
+- `fossil-limestone/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Brachiopods_in_fossiliferous_limestone_(Delaware_Limestone,_Middle_Devonian;_Olentangy_River_at_Lazarus_Run,_Delaware_County,_Ohio,_USA)_1.jpg
+- `fossil-limestone/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Brachiopods_in_fossiliferous_limestone_(Delaware_Limestone,_Middle_Devonian;_Olentangy_River_at_Lazarus_Run,_Delaware_County,_Ohio,_USA)_2.jpg
+- `fossil-limestone/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Fluoritized_fossiliferous_limestone_(Mississippian;_Hastie_Quarry,_near_Cave-in-Rock,_Illinois,_USA)_1_(26234842755).jpg
+- `fossil-limestone/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Fluoritized_fossiliferous_limestone_(Mississippian;_Hastie_Quarry,_near_Cave-in-Rock,_Illinois,_USA)_3_(26228591751).jpg
+- `fossil-limestone/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Fluoritized_fossiliferous_limestone_(Mississippian;_near_Cave-in-Rock,_Illinois,_USA)_(35147128334).jpg
+- `fossil-limestone/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Fossil_wood_impression_%26_brachiopods_in_fossiliferous_limestone_(Lowellville_Limestone,_Lower_Pennsylvanian;_Beach_City_Dam_outcrop,_northeastern_Ohio,_USA)_2_(23875730256).jpg
+- `oolitic-limestone/000.jpg`: Greg Willis from Denver, CO, usa, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Conococheague_Formation_-_Oolites_(4802156030).jpg
+- `oolitic-limestone/001.jpg`: Ralvarezlara00, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Detailed_group_of_oolites.jpg
+- `oolitic-limestone/002.jpg`: Ralvarezlara00, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Group_of_oolites.jpg
+- `oolitic-limestone/003.jpg`: Wilson44691, CC0, https://commons.wikimedia.org/wiki/File:Inferior_Oolite_Doulting_Stone.jpg
+- `oolitic-limestone/004.jpg`: Wilson44691, CC0, https://commons.wikimedia.org/wiki/File:Inferior_Oolite_Leckhampton_Hill.jpg
+- `oolitic-limestone/005.jpg`: kerinin, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Oolite_dunes.jpg
+- `oolitic-limestone/006.jpg`: Strekeisen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Oolite.JPG
+- `oolitic-limestone/007.jpg`: Rudolf Pohl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Oolitea1.jpg
+- `travertine/000.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:%22Tanzanite%22_(travertine).jpg
+- `travertine/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:10_Cave_cricket_on_travertine_splthm_1_(8315288224).jpg
+- `travertine/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:69_Travertine_columns_%26_joint-aligned_ceiling_speleothem_1_(8325820344).jpg
+- `travertine/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:70A_Joint-aligned_travertine_speleothem,_ceiling_of_Collins_Ave._1_(8325820140).jpg
+- `travertine/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:70B_Helictites_(travertine)_2_(8325819874).jpg
+- `travertine/005.jpg`: Kevin M. Gill, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Feather_Impression_in_Travertine_(55276163829).jpg
+- `travertine/006.jpg`: Tadeáš Gregor, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Fossil_travertines.jpg
+- `travertine/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Fracture_fill_travertine_1.jpg
+- `arkose/000.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Arkose_(Fountain_Formation,_Pennsylvanian_to_Permian;_Colorado,_USA)_1.jpg
+- `arkose/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Arkose_(Newark_Supergroup,_Triassic-Jurassic;_Mt._Tom,_Massachusetts,_USA)_1.jpg
+- `arkose/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Arkose_(Newark_Supergroup,_Triassic-Jurassic;_Mt._Tom,_Massachusetts,_USA)_2.jpg
+- `arkose/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Arkose_(Newark_Supergroup,_Triassic-Jurassic;_Mt._Tom,_Massachusetts,_USA)_5.jpg
+- `arkose/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Arkose_(Newark_Supergroup,_Triassic-Jurassic;_Mt._Tom,_Massachusetts,_USA)_6.jpg
+- `arkose/005.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Arkose_01_10x_(38960269444).jpg
+- `arkose/006.jpg`: Max.kit, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Arkose_mouen_calvados.jpg
+- `arkose/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Arkose_possibly_from_Mt._Tom,_western_Massachusetts,_USA.jpg
+- `greywacke/000.jpg`: PhilBeeNZ, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Example_of_greywacke_cliffs,_Mangaweka,_Nthrn.Manawatu,_New_Zealand.jpg
+- `greywacke/001.jpg`: Geolina163, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Grauwacke_AC_Rathaus.jpg
+- `greywacke/002.jpg`: User:Gerhard Elsner, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Grauwackekonglomerat.jpg
+- `greywacke/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Graywacke_(16176003404).jpg
+- `greywacke/004.jpg`: Auckland Museum Collections from Auckland, Aotearoa New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Greywacke_(48723816738).jpg
+- `greywacke/005.jpg`: Auckland Museum Collections from Auckland, Aotearoa New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Greywacke_(48724151206).jpg
+- `greywacke/006.jpg`: Auckland Museum Collections from Auckland, Aotearoa New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Greywacke_(48724327347).jpg
+- `greywacke/007.jpg`: Ingwik, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Greywacke_Kristinedalskolan.jpg
+- `quartz-sandstone/000.jpg`: Huhulenik, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Quartz_Sandstone_Geopark.jpg
+- `quartz-sandstone/001.jpg`: Chmee2, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Quartz_Sandstone_in_Geopark_on_Albertov_(2).JPG
+- `quartz-sandstone/002.jpg`: Carolina Latorre Canet, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:0.1._Despreniment_(Pardinella,_Vall_de_l%27Is%C3%A0vena).jpg
+- `quartz-sandstone/003.jpg`: Carolina Latorre Canet, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:0.2._Despreniment_(Pardinella,_Vall_de_l%27Is%C3%A0vena).jpg
+- `quartz-sandstone/004.jpg`: Carolina Latorre Canet, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:0.3._Despreniment_(Pardinella,_Vall_de_l%27Is%C3%A0vena).jpg
+- `quartz-sandstone/005.jpg`: Rygel, M.C., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:0011106-2_ignlith_50x_XPL.jpg
+- `quartz-sandstone/006.jpg`: Rygel, M.C., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:0011106-2_ignlith_matrix_20x_XPL.jpg
+- `quartz-sandstone/007.jpg`: Rygel, M.C., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:0106071_feld_chlorite_50x_XPL.jpg
+- `amphibolite/001.jpg`: Ruthven, CC0, https://commons.wikimedia.org/wiki/File:Amphibolite_-_Collezione_mineralogica_-_Universit%C3%A0_dell%E2%80%99Insubria.jpg
+- `amphibolite/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amphibolite_(Archean,_3.1-3.2_Ga;_Norris_South_roadcut,_Madison_County,_Montana,_USA)_1_(45574881922).jpg
+- `amphibolite/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amphibolite_(Archean,_3.1-3.2_Ga;_Norris_South_roadcut,_Madison_County,_Montana,_USA)_2_(45625451951).jpg
+- `amphibolite/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amphibolite_(Precambrian;_Warrensburg,_Adirondack_Mountains,_New_York_State,_USA)_1.jpg
+- `amphibolite/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amphibolite_(Precambrian;_Warrensburg,_Adirondack_Mountains,_New_York_State,_USA)_2.jpg
+- `amphibolite/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amphibolite_(Willyama_Supergroup,_Paleoproterozoic;_Alexandra_Mine,_Broken_Hill_Block,_New_South_Wales,_Australia)_1_(26393781216).jpg
+- `amphibolite/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amphibolite_1.jpg
+- `amphibolite/008.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Amphibolite_10.jpg
+- `gneiss/000.jpg`: Famartin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-12-01_15_56_21_Oldest_rocks_in_New_Jersey,_Wanaque_Tonalite_Gneiss,_1.37_billion_years_old,_Losee_Gneiss_Complex,_Back_Beach_Park,_Passaic_County,_New_Jersey,_on_display_at_the_New_Jersey_State_Museum_in_Trenton,_Mercer_County,_New_Jersey.jpg
+- `gneiss/001.jpg`: Famartin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-12-01_15_56_31_Oldest_rocks_in_New_Jersey,_Wanaque_Tonalite_Gneiss,_1.37_billion_years_old,_Losee_Gneiss_Complex,_Back_Beach_Park,_Passaic_County,_New_Jersey,_on_display_at_the_New_Jersey_State_Museum_in_Trenton,_Mercer_County,_New_Jersey.jpg
+- `gneiss/002.jpg`: Famartin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-12-01_15_56_35_Oldest_rocks_in_New_Jersey,_Wanaque_Tonalite_Gneiss,_1.37_billion_years_old,_Losee_Gneiss_Complex,_Back_Beach_Park,_Passaic_County,_New_Jersey,_on_display_at_the_New_Jersey_State_Museum_in_Trenton,_Mercer_County,_New_Jersey.jpg
+- `gneiss/003.jpg`: Famartin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-12-01_15_56_58_Gneiss,_Losee_Gneiss_Complex,_Bloomingdale,_Passaic_County,_New_Jersey,_on_display_at_the_New_Jersey_State_Museum_in_Trenton,_Mercer_County,_New_Jersey.jpg
+- `gneiss/004.jpg`: Mike Beauregard from Nunavut, Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:4,030,000,000_Years_Acasta_Gneiss.jpg
+- `gneiss/005.jpg`: Shyamal, CC0, https://commons.wikimedia.org/wiki/File:Augen_gneiss.jpg
+- `gneiss/006.jpg`: euphro, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Auriga_Nunataks_sheared_gneiss.jpg
+- `gneiss/007.jpg`: Chmee2, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Biotite-muscovite_Orthogneiss_in_Geopark_on_Albertov.JPG
+- `marble/000.jpg`: Jessroman, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Andrea_Valsecchi_Marble_Bags.jpg
+- `marble/001.jpg`: Strekeisen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Calc-silicate_marble.JPG
+- `marble/002.jpg`: Shannon Heinle, CC0, https://commons.wikimedia.org/wiki/File:Diopside_marble_(GeoDIL_number_-_399).jpg
+- `marble/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dolomitized_marble_in_marble_(Gouverneur_Marble,_Mesoproterozoic,_~1.1_Ga;_Route_11_roadcut_north_of_Antwerp,_New_York_State,_USA)_6.jpg
+- `marble/004.jpg`: Graeme Churchard (GOC53) https://www.flickr.com/people/graeme/, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Eclogite_in_Marble_on_Syros_Greece.jpg
+- `marble/005.jpg`: Marmodesign, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Galala_Marble.jpg
+- `marble/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Graphitic_marble_(49149538298).jpg
+- `marble/007.jpg`: MohdAqibKhan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:KS_Marble_Traders.jpg
+- `phyllite/000.jpg`: Scuba909, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Embayed_phyllite_in_granite.jpg
+- `phyllite/001.jpg`: Mikenorton, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Folded_Dalradian_phyllites.JPG
+- `phyllite/002.jpg`: TheFurther21, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Heavily_folded_phyllite,_Norway.jpg
+- `phyllite/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Metcalf_Phyllite_(Neoproterozoic;_Laurel_Creek_Road_outcrop,_Great_Smoky_Mountains,_Tennessee,_USA)_1_(36450446124).jpg
+- `phyllite/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Metcalf_Phyllite_(Neoproterozoic;_Laurel_Creek_Road_outcrop,_Great_Smoky_Mountains,_Tennessee,_USA)_10_(37006402171).jpg
+- `phyllite/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Metcalf_Phyllite_(Neoproterozoic;_Laurel_Creek_Road_outcrop,_Great_Smoky_Mountains,_Tennessee,_USA)_12_(36750911870).jpg
+- `phyllite/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Metcalf_Phyllite_(Neoproterozoic;_Laurel_Creek_Road_outcrop,_Great_Smoky_Mountains,_Tennessee,_USA)_14_(36334694583).jpg
+- `phyllite/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Metcalf_Phyllite_(Neoproterozoic;_Laurel_Creek_Road_outcrop,_Great_Smoky_Mountains,_Tennessee,_USA)_4_(36334895443).jpg
+- `quartzite/000.jpg`: The British Library, No restrictions, https://commons.wikimedia.org/wiki/File:12_of_%27The_Sioux_Quartzite_and_Certain_Associated_Rocks_..._A_thesis,_etc._(With_sketch-maps.)%27_(11232504263).jpg
+- `quartzite/001.jpg`: Kevmin, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Addy_Quartzite_unidentified_01.jpg
+- `quartzite/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Nacarado_Quartzite_(possibly_from_the_Sao_Joaquim_Formation,_Neoproterozoic,_-775_Ma;_Nacarado_Quarry,_Ceara_State,_Brazil)_(14833568493).jpg
+- `quartzite/004.jpg`: ToxicFlame427, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Palisades_-_Garretson,_SD_(8-20-26)_Quartzite_Pillar.jpg
+- `quartzite/005.jpg`: Stilfehler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Quartzite_(Natural_Stone)_for_Countertops_01.jpg
+- `quartzite/006.jpg`: Stilfehler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Quartzite_(Natural_Stone)_for_Countertops_02.jpg
+- `quartzite/007.jpg`: Stilfehler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Quartzite_(Natural_Stone)_for_Countertops_03.jpg
+- `quartzite/008.jpg`: Stilfehler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Quartzite_(Natural_Stone)_for_Countertops_04.jpg
+- `serpentinite/000.jpg`: John Rusk from Berkeley, CA, United States of America, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2014-05-04-11.09.46_ZS_DMap%E2%80%94Serpentinite%E2%80%94Walker_Ridge-1_(14106795935).jpg
+- `serpentinite/001.jpg`: John Rusk from Berkeley, CA, United States of America, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2014-05-04-11.16.12_ZS_DMap%E2%80%94Serpentine%E2%80%94Walker_Ridge-1_(14106791135).jpg
+- `serpentinite/002.jpg`: Mikenorton, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Altered_serpentinite_Druim_nam_Buraich.JPG
+- `serpentinite/003.jpg`: Darla Sondrol, CC0, https://commons.wikimedia.org/wiki/File:Artinite_on_serpentine_(GeoDIL_number_-_2468).jpg
+- `serpentinite/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Chromitic_talcose_serpentinite_(Shetland_Ophiolite_Complex,_~425-500_Ma;_Unst,_Shetland_Islands,_North_Sea)_(14819238911).jpg
+- `serpentinite/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Chrysotile_in_serpentinite_8.jpg
+- `serpentinite/006.jpg`: Hermann Hammer (User:Haneburger), CC0, https://commons.wikimedia.org/wiki/File:Folded_serpentinite.jpg
+- `serpentinite/007.jpg`: Dushan Jugum, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Metasomatized_dyke_in_serpentinite_Nelson_New_Zealand.jpg
+- `slate/000.jpg`: EN NOIR &amp; BLANC, CC0, https://commons.wikimedia.org/wiki/File:Ardoise,_extraction_et_fabrication,_planche_-_Slate_extraction,_historical,_in_France,_plate_with_line_illustrations,_etc._-_Public_domain_illustration_from_Larousse_du_XX%C3%A8me_si%C3%A8cle_1932.jpg
+- `slate/001.jpg`: USGS, Public domain, https://commons.wikimedia.org/wiki/File:Cleavage_and_joints_in_Slate_ggk00901.jpg
+- `slate/002.jpg`: Hogyn Lleol, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Old_slate_quarry_at_Llanrhychwyn.jpg
+- `slate/003.jpg`: I took the photos, Public domain, https://commons.wikimedia.org/wiki/File:PentrefelinSlateWorksPlan.jpg
+- `slate/004.jpg`: USGS, Public domain, https://commons.wikimedia.org/wiki/File:Red_slate,_Hatch_Hill,_Whitehall,_Washington_County,_New_York_dtn00112.jpg
+- `slate/005.jpg`: Etan J. Tal, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sirrako_slate_roof.jpg
+- `slate/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Slate_(Knife_Lake_Formation,_metamorphism_at_2.7_Ga,_Neoarchean;_Rt._135_roadcut,_Gilbert,_Minnesota,_USA)_1_(23212236940).jpg
+- `slate/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Slate_(Knife_Lake_Formation,_metamorphism_at_2.7_Ga,_Neoarchean;_Rt._135_roadcut,_Gilbert,_Minnesota,_USA)_2_(23212229500).jpg
+- `garnet-schist/000.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Garnet_schist_(Late_Cretaceous,_89-90_Ma;_Garnet_Ledge,_about_12_km_north_of_Wrangell,_southeastern_Alaska,_USA)_3_(49072978771).jpg
+- `garnet-schist/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Garnet_schist_(Late_Cretaceous,_89-90_Ma;_Garnet_Ledge,_about_12_km_north_of_Wrangell,_southeastern_Alaska,_USA)_6_(49072981306).jpg
+- `garnet-schist/002.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Garnet_schist_1_(16735443408).jpg
+- `garnet-schist/003.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Garnet_schist_2_(16921836912).jpg
+- `garnet-schist/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Garnet_schist_3_(49072390578).jpg
+- `garnet-schist/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Garnet_schist_4_(49072916926).jpg
+- `garnet-schist/006.jpg`: Jstuby, CC0, https://commons.wikimedia.org/wiki/File:Garnet_schist_Dan_Patch_Pegmatite_dp4.jpg
+- `garnet-schist/007.jpg`: Graeme Churchard (GOC53) https://www.flickr.com/people/graeme/, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Garnet_Mica_Schist_Syros_Greece.jpg
+- `mica-schist/001.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Mica_schist_(Manhattan_Schist,_late_Neoproterozoic;_Manhattan_Island,_New_York_City,_New_York_State,_USA)_(14882194417).jpg
+- `mica-schist/002.jpg`: Randolph Black from Grass Lake, MI, United States, PDM-owner, https://commons.wikimedia.org/wiki/File:Mica_Schist_01_10x_(25785506398).jpg
+- `mica-schist/003.jpg`: Nilfanion, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mica_schist_at_Dan_yr_Ogof_(8913).jpg
+- `mica-schist/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Muscovite_schist_(Appalachian_Gap,_Green_Mountains,_Vermont,_USA)_1.jpg
+- `mica-schist/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Muscovite_schist_(Precambrian;_Blue_Ridge,_North_Carolina,_USA)_4.jpg
+- `mica-schist/006.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Muscovite_schist_(Precambrian;_Blue_Ridge,_North_Carolina,_USA)_5.jpg
+- `mica-schist/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Muscovite_schist_(Precambrian;_Blue_Ridge,_North_Carolina,_USA)_6.jpg
+- `mica-schist/008.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Muscovite_schist_(Precambrian;_Blue_Ridge,_North_Carolina,_USA)_8.jpg
+- `talc-schist/000.jpg`: Musée minéralogique et minier de Thetford Mines 2014, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ancien_bureau_de_la_Broughton_Soapstone_Quarry_Co._%C3%A0_Saint-Pierre-de-Broughton_(Qu%C3%A9bec,_Canada).jpg
+- `talc-schist/001.jpg`: SpeakingArch, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Glazed_steatite_eye-paint_jar,_Dynasty_18(1550-1292_BCE_),_Fitzwilliam_Museum,_Decorated_with_an_openwork_pattern_of_protective_deities.jpg
+- `talc-schist/002.jpg`: Mike Beauregard from Nunavut, Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Handmining_Soapstone.jpg
+- `talc-schist/003.jpg`: Nessa Eull, CC0, https://commons.wikimedia.org/wiki/File:Soapstone_(GeoDIL_number_-_437).jpg
+- `talc-schist/004.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Soapstone_(quarry_near_Francestown,_New_Hampshire,_USA)_1_(41043144565).jpg
+- `talc-schist/005.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Soapstone_(quarry_near_Francestown,_New_Hampshire,_USA)_2_(27073018457).jpg
+- `talc-schist/006.jpg`: Ra'ike (see also: de:Benutzer:Ra'ike), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Soapstone_(Speckstein)_-_several_colored_samples.jpg
+- `talc-schist/007.jpg`: James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Soapstone_1_(14805103732).jpg

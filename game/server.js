@@ -18,7 +18,14 @@ const server = http.createServer(app);
 const io = new Server(server);
 app.use(express.static(path.join(__dirname, 'public')));
 app.use('/img', express.static(pool.IMAGES, { maxAge: '1d' }));
-app.get('/api/info', (req, res) => res.json({ lan: lan().map(ip => `http://${ip}:${PORT}`), questions: pool.count(), rules: S.RULES }));
+app.get('/api/info', (req, res) => res.json({ lan: joinUrls(), questions: pool.count(), rules: S.RULES }));
+
+// where players should go: the public address when hosted (Render sets RENDER_EXTERNAL_URL, or set PUBLIC_URL),
+// otherwise this computer's addresses on the local network
+function joinUrls() {
+  const pub = process.env.PUBLIC_URL || process.env.RENDER_EXTERNAL_URL;
+  return pub ? [pub] : lan().map(ip => `http://${ip}:${PORT}`);
+}
 
 function lan() {
   const out = [];
@@ -51,7 +58,7 @@ const standings = r => playersOf(r).sort((a, b) => b.score - a.score || a.joined
 
 function lobbyState(r) {
   return { pin: r.pin, phase: r.phase, settings: r.settings, hostPlays: !!r.hostPlayerId, players: standings(r),
-           min: MIN_PLAYERS, max: MAX_PLAYERS, lan: lan().map(ip => `http://${ip}:${PORT}`) };
+           min: MIN_PLAYERS, max: MAX_PLAYERS, lan: joinUrls() };
 }
 const broadcastLobby = r => io.to(r.pin).emit('room', lobbyState(r));
 

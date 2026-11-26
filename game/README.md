@@ -63,3 +63,15 @@ there are no points.
 - A track at the top shows everyone's progress; the feed says when others answer or skip.
 - The race ends the moment someone finishes the last question. Everyone else is ranked by questions completed,
   then by who got there first. The final screen shows how many hints each player used.
+
+## Hosting on Render
+
+`render.yaml` (repo root) is a Render blueprint: in Render, **New + -> Blueprint**, pick this repo, **Apply**.
+It runs `game/` on the free plan. The free plan sleeps after ~15 minutes with no visitors; the first visit after
+that takes ~30-60 s while it wakes. Rooms live in memory, so a restart or redeploy ends any game in progress.
+
+Photos: the server uses `ROCKID_IMAGES` if set, else the full library at `../../rockid/images` if present, else the
+small set bundled in `game/images` (8 per specimen, resized; made by `python tools/bundle_images.py`).
+Photo credits and licenses are in `game/images/CREDITS.md`.
+
+The lobby shows `PUBLIC_URL` or Render's `RENDER_EXTERNAL_URL` as the join address when set, otherwise LAN addresses.

@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rockbank</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="top"><span class="brand">Rockbank</span> <span class="topinfo"><span id="topInfo"></span> <button id="exitBtn" hidden>Exit</button></span></div>
+
+<div id="v-home" class="view">
+  <p>Rocks &amp; Minerals quiz for up to 6 players. To play solo, host with "I'm playing too" ticked.</p>
+  <div class="split">
+    <form id="joinForm" class="stack">
+      <h3>Join a room</h3>
+      <input id="joinPin" inputmode="numeric" maxlength="4" placeholder="Room code" autocomplete="off">
+      <input id="joinName" maxlength="16" placeholder="Your name" autocomplete="off">
+      <button>Join</button>
+      <div id="joinErr" class="err"></div>
+    </form>
+    <form id="hostForm" class="stack">
+      <h3>Host a room</h3>
+      <label>Game mode:
+        <select id="hostMode"><option value="classic">Classic (points, everyone on the same question)</option><option value="race">Race (first to finish wins)</option><option value="race_hint">Race (first hint shown)</option></select></label>
+      <label class="check"><input type="checkbox" id="hostPlays"> I'm playing too, on this screen</label>
+      <input id="hostName" maxlength="16" placeholder="Your name" autocomplete="off" hidden>
+      <button>Create room</button>
+    </form>
+  </div>
+</div>
+
+<div id="v-lobby" class="view">
+  <p>Room code: <span id="pin" class="pin">----</span></p>
+  <p id="lanLine" class="muted small"></p>
+  <h3>Players <span id="pcount" class="muted"></span></h3>
+  <ul id="players"></ul>
+  <p id="waitMsg" class="muted">Waiting for the host to start...</p>
+  <div id="hostPanel" hidden>
+    <h3>Settings</h3>
+    <label class="row">Mode:
+      <select id="setMode"><option value="classic">Classic (points, everyone on the same question)</option><option value="race">Race (first to finish wins)</option><option value="race_hint">Race (first hint shown)</option></select></label>
+    <label class="row">Questions: <input type="range" id="setCount" min="10" max="50" step="5"> <b id="countOut"></b></label>
+    <label class="row">Level:
+      <select id="setLevel"><option value="regional">Regional list only</option><option value="state">Include State/Nationals</option></select></label>
+    <label class="row">Question mix:
+      <select id="setMix"><option value="everything">Default</option><option value="identification">Identification</option>
+        <option value="properties">Mineral properties</option></select></label>
+    <label class="row" id="capRow">Time cap per question (s):
+      <select id="setCap"><option>30</option><option>45</option><option>60</option><option>90</option></select></label>
+    <label class="check"><input type="checkbox" id="lobbyHostPlays"> I'm playing too, on this screen</label>
+    <input id="lobbyHostName" maxlength="16" placeholder="Your name" hidden>
+    <p><button id="startBtn">Start game</button> <span id="startErr" class="err"></span></p>
+    <details id="raceRules" hidden><summary>Race rules</summary>
+      <ul>
+        <li>Everyone gets the same questions in the same order and goes at their own pace.</li>
+        <li>After each answer, right or wrong, you wait 3 s before you can submit again (you can type meanwhile).</li>
+        <li>A correct answer brings up your next question right away.</li>
+        <li>Up to 3 hints per question, each adding 10 s to your wait. You can't take another hint until the last one's 10 s is up. After 30 s on a question, the next hint is free.</li>
+        <li>"First hint shown": hint 1 is up on every question for free.</li>
+        <li>First to finish wins; everyone else is ranked by how far they got.</li>
+      </ul>
+    </details>
+    <details id="classicRules"><summary>Scoring</summary>
+      <ul>
+        <li>Answers unlock after 3 s (you can type before then).</li>
+        <li>Correct within 0.5 s of unlock: 1000, then it slides down to 500 by the time cap.</li>
+        <li>Each wrong answer: -200 from your correct score.</li>
+        <li>2nd correct: -100. 3rd correct: -300. Minimum 100 for a correct answer.</li>
+        <li>The question ends when half the room (rounded up) is correct.</li>
+      </ul>
+    </details>
+  </div>
+</div>
+
+<div id="v-question" class="view">
+  <p><b id="qnum"></b> &middot; <span id="qtopic" class="muted"></span> &middot; <span id="qprogress"></span></p>
+  <div id="qimgWrap" class="qimg" hidden><img id="qimg" alt="Specimen"></div>
+  <h3 id="qprompt"></h3>
+  <ol id="qoptions" class="options" type="A"></ol>
+  <p id="qhint" class="muted small"></p>
+  <div class="timer"><div id="timerBar"></div></div>
+  <p id="timerText" class="small"></p>
+  <div id="answerArea" class="answer">
+    <p>Worth now: <b id="potential">1000</b> <span id="strikes" class="strikes"></span></p>
+    <form id="answerForm">
+      <input id="answerBox" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Type your answer">
+      <button id="answerBtn">Submit</button>
+    </form>
+    <p id="feedback" class="feedback"></p>
+  </div>
+  <p id="hostControls" hidden><button id="skipBtn">End question</button></p>
+  <h4>Answers</h4>
+  <ul id="feed" class="feed"></ul>
+</div>
+
+<div id="v-race" class="view">
+  <table id="rTrack" class="track"></table>
+  <p><b id="rqnum"></b> &middot; <span id="rtopic" class="muted"></span></p>
+  <div id="rimgWrap" class="qimg" hidden><img id="rimg" alt="Specimen"></div>
+  <h3 id="rprompt"></h3>
+  <ol id="roptions" class="options" type="A"></ol>
+  <p id="rhint" class="muted small"></p>
+  <div class="timer" id="rTimer"><div id="rBar"></div></div>
+  <p id="rTimerText" class="small"></p>
+  <div id="raceArea" class="answer">
+    <form id="raceForm">
+      <input id="raceBox" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Type your answer">
+      <button id="raceBtn">Submit</button>
+      <button type="button" id="hintBtn">Hint (+10 s)</button>
+    </form>
+    <p id="rFeedback" class="feedback"></p>
+    <p id="hintTally" class="small"></p>
+    <ol id="rHints" class="hints"></ol>
+  </div>
+  <h4>Answers</h4>
+  <ul id="raceFeed" class="feed"></ul>
+</div>
+
+<div id="v-reveal" class="view">
+  <p>Answer: <b id="rAnswer"></b></p>
+  <p id="rExplain" class="muted"></p>
+  <table class="awards"><thead><tr><th>Player</th><th>Result</th><th>Points</th></tr></thead><tbody id="rAwards"></tbody></table>
+  <h3>Leaderboard</h3>
+  <ol id="rBoard" class="board"></ol>
+  <p><button id="nextBtn" hidden>Next question</button></p>
+  <p id="rWait" class="muted small">Waiting for the host...</p>
+</div>
+
+<div id="v-final" class="view">
+  <h2 id="winner"></h2>
+  <ol id="fBoard" class="board"></ol>
+  <p><button id="againBtn" hidden>Back to lobby</button></p>
+</div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

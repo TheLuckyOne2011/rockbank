@@ -1,0 +1,17 @@
+{
+  "name": "rockbank-game",
+  "version": "1.0.0",
+  "description": "Multiplayer Rocks & Minerals quiz (base mode) using the rockbank question database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test --test-force-exit test/*.test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "socket.io-client": "^4.8.1"
+  }
+}

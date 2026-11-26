@@ -1,0 +1,12 @@
+# downloaded third-party tests (scio.ly archive) - reference only, 1.4 GB, not ours to redistribute
+sources/
+
+# dependencies
+node_modules/
+
+# python / editor / OS clutter
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/

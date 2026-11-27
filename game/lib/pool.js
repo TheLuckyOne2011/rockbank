@@ -14,8 +14,12 @@ const NEEDS_OPTIONS = /\b(of these|of the following|the following|which pair|doe
 const NEEDS_OPTIONS_CAPS = /\b(NOT|LEAST)\b/; // capitalized emphasis, as in "Which is NOT..."
 const sentences = s => (String(s).match(/[.!?](\s|$)/g) || []).length;
 
+const { shortForms, hasShortAnswer } = require('./parts');
+
 function playable(q) {
   if (!PLAYABLE.has(q.format)) return false;
+  if (q.format === 'frq') return false;                                     // no sentence answers
+  if ((q.format === 'short' || q.format === 'mcq') && !hasShortAnswer(q)) return false; // must be answerable with a short term
   if (q.format === 'mcq' && (NEEDS_OPTIONS.test(q.prompt) || NEEDS_OPTIONS_CAPS.test(q.prompt))) return false;
   if (q.format === 'mcq' && /^(both|neither|all|none) /i.test(q.answer)) return false;
   if (q.format === 'frq' && sentences(q.answer) > 2) return false; // keep free-response to about a sentence
@@ -77,6 +81,7 @@ function prepare(q) {
     p.accept = [q.answer, ...(q.accept || [])];
     delete p.options;
   }
+  if (p.format === 'short') p.accept = [...new Set([...(p.accept || []), ...shortForms(q)])]; // short forms count too
   if (q.format === 'order') p.options = shuffle([...q.answer]);
   if (q.format === 'tf') delete p.options;
   if (q.image) {

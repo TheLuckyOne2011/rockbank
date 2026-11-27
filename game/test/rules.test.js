@@ -111,6 +111,17 @@ test('default rounds are about two thirds reasoning questions', () => {
   assert.ok(reason / total > 0.6 && reason / total < 0.72, `reasoning share ${reason / total}`);
 });
 
+test('no sentence answers: every typed question accepts a short term (3 words or fewer)', () => {
+  for (let i = 0; i < 20; i++) for (const q of pool.pickRound({ count: 50, level: 'state', mix: 'everything' })) {
+    assert.notEqual(q.format, 'frq');
+    if (q.format === 'short') {
+      const short = [q.answer, ...(q.accept || [])].filter(a => typeof a === 'string' && a.trim().split(/\s+/).length <= 3);
+      assert.ok(short.length > 0, `no short answer for: ${q.prompt}`);
+      assert.equal(check(q, short[0]).status, 'correct', `${q.prompt} -> ${short[0]}`);
+    }
+  }
+});
+
 test('rounds contain no multiple-choice options and no option-dependent prompts', () => {
   const r = pool.pickRound({ count: 50, level: 'state', mix: 'everything' });
   for (const q of r) {
